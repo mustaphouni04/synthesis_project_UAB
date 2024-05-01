@@ -14,7 +14,8 @@ from nltk.corpus import PlaintextCorpusReader
 from gensim.models import Word2Vec
 import multiprocessing
 import os
-from sklearn.preprocessing import Normalizer
+from sklearn.preprocessing import MinMaxScaler
+import hashlib
 
 # HELPER FUNCTIONS
 #_________________________________________________________________________________________________________
@@ -44,8 +45,9 @@ def generate_embedding_vectors(feature_tokens, word_vectors, emb_dim):
     return embedding_vectors
     
 def embeddings(df: pd.DataFrame, preprocess, feature, emb_dim = 30, epochs = 10, window = 5) -> pd.DataFrame:
+    db_file = f'generic_{pd.Timestamp.now().strftime("%Y%m%d_%H%M%S")}.db'
     # load data
-    conn = sqlite3.connect('generic.db')
+    conn = sqlite3.connect(db_file)
     df.to_sql('generic', conn, index=False, if_exists='replace')
 
     # tokenize feature and create corpus
@@ -62,9 +64,8 @@ def embeddings(df: pd.DataFrame, preprocess, feature, emb_dim = 30, epochs = 10,
 
     conn.close()
 
-    db_file = 'generic.db'
     os.remove(db_file)
-
+    
     # getting the embeddings
     EMB_DIM = emb_dim
     w2v = Word2Vec(sentences=gen_tokens, vector_size=EMB_DIM, window=window, min_count=5, negative=15,
@@ -172,11 +173,12 @@ def preprocessing_BS(df: pd.DataFrame) -> pd.DataFrame:
     """
     BS: Normalizing bytes_sent.
     """
-    scaler = Normalizer().fit(df['bytes_sent'])
-    scaler.transform(df['bytes_sent'])
-
+    scaler = MinMaxScaler(feature_range=(0, 1))
+    # Fit the scaler to the data and transform the 'bytes_sent' column
+    df['bytes_sent'] = scaler.fit_transform(df['bytes_sent'].values.reshape(-1, 1))
+    
     return df
-
+    
 def preprocessing_UA(df: pd.DataFrame) -> pd.DataFrame:
     """
     UA: Generating embeddings for user_agent.
