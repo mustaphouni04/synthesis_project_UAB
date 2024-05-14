@@ -73,3 +73,8 @@ def make(config, csv_path, device="cuda"):
     optimizer = optim.Adam(model.parameters())
     
     return model, train_loader, test_loader, criterion, optimizer
+
+data = get_data_from_csv('../../preprocessed.csv', train = True)
+
+print(data[0])
+print(data[0].size())
