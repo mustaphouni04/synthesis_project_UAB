@@ -197,54 +197,6 @@ def preprocessing_CLEAN(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-def preprocessing_R_UA_RU(df: pd.DataFrame, drop_empty_lists = False) -> pd.DataFrame:
-    """
-    R_UA_RU: Clean out and deal with inhomogenous data in referer, user_agent & requested_url.
-    """
-    def drop_empty_lists(feature) -> pd.DataFrame:   
-        condition = df[feature].apply(lambda x: x == [])
-
-        df= df[~condition]
-        df = df.reset_index(drop=True)
-
-    features = ['referer', 'user_agent', 'requested_url']
-    if drop_empty_lists == True:
-        for feat in features:
-            df = drop_empty_lists(feat)
-    else:
-        for feat in features:
-            max_dim = 30
-            # Filling the empty lists with zeros up to 30 dim
-            def fill_empty_lists(row):
-                if len(row[feat]) == 0:
-                    return [0.0] * max_dim
-                else:
-                    return row[feat]
-        
-            df[feat] = df.apply(fill_empty_lists, axis=1)
-
-    def compute_average_vector(embedding_lists):
-        # Check if the list contains non-empty vectors
-        non_empty_vectors = [embedding for embedding in embedding_lists if not all(value == 0 for value in embedding)]
-        
-        if non_empty_vectors:
-            num_dimensions = len(non_empty_vectors[0])
-            average_vector = np.zeros(num_dimensions)
-            for embedding in non_empty_vectors:
-                average_vector += embedding
-            average_vector /= len(non_empty_vectors)
-            return average_vector.tolist()
-        else:
-            return [0.0] * len(embedding_lists[0])  # Return a vector of zeros if all vectors are empty
-
-    for feat in features:
-        df[feat] = df[feat].apply(compute_average_vector)
-
-        series = pd.DataFrame(df[feat].tolist())
-        avg_values = series.mean(axis=1)
-        df[feat] = avg_values
-
-    return df
 
 
 

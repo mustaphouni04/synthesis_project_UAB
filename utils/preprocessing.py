@@ -54,7 +54,7 @@ def final_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
     user_agent_column = df_copy3['user_agent']
     df['user_agent'] = user_agent_column
     print("Done.")
-
+    
     return df
     
     
