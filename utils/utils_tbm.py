@@ -39,24 +39,24 @@ def get_data_from_csv(csv_path, train=True, slice=1, subset_size=None):
     # Split the data into training and testing sets based on the 'train' parameter
     split_index = int(0.8 * len(X_tensor))  # 80% for training
     if train:
-        return X_tensor[:split_index]
+        return X_tensor[:split_index], remote_hosts_ordered[:split_index]
     else:
-        return X_tensor[split_index:]
+        return X_tensor[split_index:], remote_hosts_ordered[split_index:]
 
 
 def make_loader(dataset, batch_size):
     dataset = TensorDataset(dataset)
     loader = DataLoader(dataset=dataset,
                         batch_size=batch_size, 
-                        shuffle=True,
+                        shuffle=False, # we don't want to shuffle, that is to keep order and get the correspondant anomalous IPs
                         pin_memory=True, num_workers=2)
     return loader
 
 
 def make(config, csv_path, device="cuda"):
     # Make the data
-    train_data = get_data_from_csv(csv_path, train=True, subset_size=config.subset_size)
-    test_data = get_data_from_csv(csv_path, train=False, subset_size=config.subset_size)
+    train_data, _ = get_data_from_csv(csv_path, train=True, subset_size=config.subset_size)
+    test_data, _ = get_data_from_csv(csv_path, train=False, subset_size=config.subset_size)
     train_loader = make_loader(train_data, batch_size=config.batch_size)
     test_loader = make_loader(test_data, batch_size=config.batch_size)
 
@@ -74,7 +74,6 @@ def make(config, csv_path, device="cuda"):
     
     return model, train_loader, test_loader, criterion, optimizer
 
-data = get_data_from_csv('../../preprocessed.csv', train = True)
-
-print(data[0])
-print(data[0].size())
+def get_test_remote_hosts(csv_path):
+    test_data, remote_hosts = get_data_from_csv(csv_path, train=False)
+    return remote_hosts

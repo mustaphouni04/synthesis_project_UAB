@@ -1,5 +1,6 @@
 from tqdm.auto import tqdm
 import wandb
+import torch
 
 def train(model, loader, criterion, optimizer, config):
     # Initialize Weights & Biases tracking
@@ -11,7 +12,7 @@ def train(model, loader, criterion, optimizer, config):
     batch_ct = 0
 
     # Training loop
-    for epoch in tqdm.tqdm(range(config.epochs)):
+    for epoch in tqdm(range(config.epochs)):
         for _, inputs in enumerate(loader):  # Only inputs are needed
 
             # Call the modified train_batch function
@@ -27,8 +28,8 @@ def train(model, loader, criterion, optimizer, config):
 
 def train_batch(inputs, model, optimizer, criterion, device="cuda"):
     # Move inputs to the specified device
-    inputs = inputs.to(device)
-    
+    inputs = inputs[0].to(device)
+    #tensor = torch.tensor(inputs).to(device)
     # Forward pass ➡
     outputs = model(inputs)
     loss = criterion(outputs, inputs)  # Use inputs as targets

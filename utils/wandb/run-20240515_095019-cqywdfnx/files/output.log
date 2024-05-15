@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_config.py", line 162, in __getattr__
+    return self.__getitem__(key)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+           ~~~~~~~~~~~^^^^^
+KeyError: 'subset_size'
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 34, in model_pipeline
+    model, train_loader, test_loader, criterion, optimizer = make(config, '../../preprocessed.csv')
+                                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\utils_tbm.py", line 58, in make
+    train_data = get_data_from_csv(csv_path, train=True, subset_size=config.subset_size)
+                                                                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_config.py", line 164, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'subset_size'

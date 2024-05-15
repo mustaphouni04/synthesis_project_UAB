@@ -1,0 +1,33 @@
+
+  0%|                                                                                                                                                                                         | 0/100 [00:08<?, ?it/s]
+Traceback (most recent call last):
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 37, in model_pipeline
+    train(model, train_loader, criterion, optimizer, config)
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\train_tbm.py", line 19, in train
+    loss = train_batch(inputs, model, optimizer, criterion)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\train_tbm.py", line 34, in train_batch
+    outputs = model(inputs)
+              ^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\module.py", line 1582, in _call_impl
+    result = forward_call(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\models\model_tbm.py", line 16, in forward
+    out, _ = self.lstm(x)
+             ^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\rnn.py", line 892, in forward
+    self.check_forward_args(input, hx, batch_sizes)
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\rnn.py", line 821, in check_forward_args
+    self.check_input(input, batch_sizes)
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\nn\modules\rnn.py", line 240, in check_input
+    raise RuntimeError(
+RuntimeError: input.size(-1) must be equal to input_size. Expected 20, got 25

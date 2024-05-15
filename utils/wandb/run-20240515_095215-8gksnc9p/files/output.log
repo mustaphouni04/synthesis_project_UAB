@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 37, in model_pipeline
+    train(model, train_loader, criterion, optimizer, config)
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\train_tbm.py", line 14, in train
+    for epoch in tqdm.tqdm(range(config.epochs)):
+                 ^^^^^^^^^
+AttributeError: type object 'tqdm_asyncio' has no attribute 'tqdm'

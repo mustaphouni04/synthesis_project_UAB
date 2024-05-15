@@ -18,4 +18,7 @@ class LSTM_Autoencoder(nn.Module):
         # Decode the output of the LSTM
         decoded = self.decoder(out)
         
-        return decoded
+        # Calculate MSE between input and decoded output
+        mse_loss = nn.MSELoss()(x, decoded)
+        
+        return decoded, mse_loss

@@ -1,0 +1,12 @@
+
+  0%|                                                                                                                                                                                         | 0/100 [00:08<?, ?it/s]
+Traceback (most recent call last):
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 37, in model_pipeline
+    train(model, train_loader, criterion, optimizer, config)
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\train_tbm.py", line 18, in train
+    loss = train_batch(inputs, model, optimizer, criterion)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\train_tbm.py", line 31, in train_batch
+    tensor = torch.tensor(inputs).to(device)
+             ^^^^^
+NameError: name 'torch' is not defined

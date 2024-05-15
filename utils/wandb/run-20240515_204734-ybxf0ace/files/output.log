@@ -1,0 +1,2257 @@
+
+  0%|                                                                                                                                                                                         | 0/100 [00:00<?, ?it/s]
+Loss after 00024 examples: 0.042
+Loss after 00049 examples: 0.047
+Loss after 00074 examples: 0.026
+Loss after 00099 examples: 0.026
+Loss after 00124 examples: 0.025
+Loss after 00149 examples: 0.014
+Loss after 00174 examples: 0.008
+Loss after 00199 examples: 0.005
+Loss after 00224 examples: 0.004
+Loss after 00249 examples: 0.003
+Loss after 00274 examples: 0.002
+Loss after 00299 examples: 0.001
+Loss after 00324 examples: 0.002
+Loss after 00349 examples: 0.001
+Loss after 00374 examples: 0.001
+Loss after 00399 examples: 0.001
+Loss after 00424 examples: 0.001
+Loss after 00449 examples: 0.001
+Loss after 00474 examples: 0.001
+
+  1%|█▊                                                                                                                                                                               | 1/100 [00:11<19:10, 11.62s/it]
+Loss after 00524 examples: 0.001
+Loss after 00549 examples: 0.000
+Loss after 00574 examples: 0.001
+Loss after 00599 examples: 0.000
+Loss after 00624 examples: 0.000
+Loss after 00649 examples: 0.001
+Loss after 00674 examples: 0.000
+Loss after 00699 examples: 0.000
+Loss after 00724 examples: 0.000
+Loss after 00749 examples: 0.000
+Loss after 00774 examples: 0.000
+Loss after 00799 examples: 0.000
+Loss after 00824 examples: 0.000
+Loss after 00849 examples: 0.000
+Loss after 00874 examples: 0.000
+Loss after 00899 examples: 0.000
+Loss after 00924 examples: 0.001
+Loss after 00949 examples: 0.000
+Loss after 00974 examples: 0.000
+
+  2%|███▌                                                                                                                                                                             | 2/100 [00:23<19:35, 11.99s/it]
+Loss after 01024 examples: 0.000
+Loss after 01049 examples: 0.000
+Loss after 01074 examples: 0.000
+Loss after 01099 examples: 0.000
+Loss after 01124 examples: 0.000
+Loss after 01149 examples: 0.000
+Loss after 01174 examples: 0.000
+Loss after 01199 examples: 0.000
+Loss after 01224 examples: 0.000
+Loss after 01249 examples: 0.000
+Loss after 01274 examples: 0.000
+Loss after 01299 examples: 0.000
+Loss after 01324 examples: 0.000
+Loss after 01349 examples: 0.000
+Loss after 01374 examples: 0.000
+Loss after 01399 examples: 0.000
+Loss after 01424 examples: 0.000
+Loss after 01449 examples: 0.000
+Loss after 01474 examples: 0.000
+
+  3%|█████▎                                                                                                                                                                           | 3/100 [00:36<19:33, 12.10s/it]
+Loss after 01524 examples: 0.000
+Loss after 01549 examples: 0.000
+Loss after 01574 examples: 0.000
+Loss after 01599 examples: 0.000
+Loss after 01624 examples: 0.000
+Loss after 01649 examples: 0.000
+Loss after 01674 examples: 0.000
+Loss after 01699 examples: 0.000
+Loss after 01724 examples: 0.000
+Loss after 01749 examples: 0.001
+Loss after 01774 examples: 0.000
+Loss after 01799 examples: 0.000
+Loss after 01824 examples: 0.000
+Loss after 01849 examples: 0.000
+Loss after 01874 examples: 0.000
+Loss after 01899 examples: 0.000
+Loss after 01924 examples: 0.000
+Loss after 01949 examples: 0.000
+Loss after 01974 examples: 0.000
+
+  4%|███████                                                                                                                                                                          | 4/100 [00:48<19:22, 12.11s/it]
+Loss after 02024 examples: 0.000
+Loss after 02049 examples: 0.000
+Loss after 02074 examples: 0.000
+Loss after 02099 examples: 0.000
+Loss after 02124 examples: 0.000
+Loss after 02149 examples: 0.000
+Loss after 02174 examples: 0.000
+Loss after 02199 examples: 0.000
+Loss after 02224 examples: 0.000
+Loss after 02249 examples: 0.000
+Loss after 02274 examples: 0.000
+Loss after 02299 examples: 0.000
+Loss after 02324 examples: 0.000
+Loss after 02349 examples: 0.000
+Loss after 02374 examples: 0.000
+Loss after 02399 examples: 0.000
+Loss after 02424 examples: 0.000
+Loss after 02449 examples: 0.000
+Loss after 02474 examples: 0.000
+
+  5%|████████▊                                                                                                                                                                        | 5/100 [01:00<19:14, 12.15s/it]
+Loss after 02524 examples: 0.000
+Loss after 02549 examples: 0.000
+Loss after 02574 examples: 0.000
+Loss after 02599 examples: 0.000
+Loss after 02624 examples: 0.000
+Loss after 02649 examples: 0.000
+Loss after 02674 examples: 0.000
+Loss after 02699 examples: 0.000
+Loss after 02724 examples: 0.000
+Loss after 02749 examples: 0.000
+Loss after 02774 examples: 0.000
+Loss after 02799 examples: 0.000
+Loss after 02824 examples: 0.000
+Loss after 02849 examples: 0.000
+Loss after 02874 examples: 0.000
+Loss after 02899 examples: 0.000
+Loss after 02924 examples: 0.000
+Loss after 02949 examples: 0.000
+Loss after 02974 examples: 0.000
+
+  6%|██████████▌                                                                                                                                                                      | 6/100 [01:12<19:05, 12.18s/it]
+Loss after 03024 examples: 0.000
+Loss after 03049 examples: 0.000
+Loss after 03074 examples: 0.000
+Loss after 03099 examples: 0.000
+Loss after 03124 examples: 0.000
+Loss after 03149 examples: 0.000
+Loss after 03174 examples: 0.000
+Loss after 03199 examples: 0.000
+Loss after 03224 examples: 0.000
+Loss after 03249 examples: 0.000
+Loss after 03274 examples: 0.000
+Loss after 03299 examples: 0.000
+Loss after 03324 examples: 0.000
+Loss after 03349 examples: 0.000
+Loss after 03374 examples: 0.000
+Loss after 03399 examples: 0.000
+Loss after 03424 examples: 0.000
+Loss after 03449 examples: 0.000
+Loss after 03474 examples: 0.000
+
+  7%|████████████▍                                                                                                                                                                    | 7/100 [01:24<18:52, 12.18s/it]
+Loss after 03524 examples: 0.000
+Loss after 03549 examples: 0.000
+Loss after 03574 examples: 0.000
+Loss after 03599 examples: 0.000
+Loss after 03624 examples: 0.000
+Loss after 03649 examples: 0.000
+Loss after 03674 examples: 0.000
+Loss after 03699 examples: 0.000
+Loss after 03724 examples: 0.000
+Loss after 03749 examples: 0.000
+Loss after 03774 examples: 0.000
+Loss after 03799 examples: 0.000
+Loss after 03824 examples: 0.000
+Loss after 03849 examples: 0.000
+Loss after 03874 examples: 0.000
+Loss after 03899 examples: 0.000
+Loss after 03924 examples: 0.000
+Loss after 03949 examples: 0.000
+Loss after 03974 examples: 0.000
+
+  8%|██████████████▏                                                                                                                                                                  | 8/100 [01:37<18:40, 12.18s/it]
+Loss after 04024 examples: 0.000
+Loss after 04049 examples: 0.000
+Loss after 04074 examples: 0.000
+Loss after 04099 examples: 0.000
+Loss after 04124 examples: 0.000
+Loss after 04149 examples: 0.000
+Loss after 04174 examples: 0.000
+Loss after 04199 examples: 0.000
+Loss after 04224 examples: 0.000
+Loss after 04249 examples: 0.000
+Loss after 04274 examples: 0.000
+Loss after 04299 examples: 0.000
+Loss after 04324 examples: 0.000
+Loss after 04349 examples: 0.000
+Loss after 04374 examples: 0.000
+Loss after 04399 examples: 0.000
+Loss after 04424 examples: 0.000
+Loss after 04449 examples: 0.000
+Loss after 04474 examples: 0.000
+
+  9%|███████████████▉                                                                                                                                                                 | 9/100 [01:49<18:28, 12.18s/it]
+Loss after 04524 examples: 0.000
+Loss after 04549 examples: 0.000
+Loss after 04574 examples: 0.000
+Loss after 04599 examples: 0.000
+Loss after 04624 examples: 0.000
+Loss after 04649 examples: 0.000
+Loss after 04674 examples: 0.000
+Loss after 04699 examples: 0.000
+Loss after 04724 examples: 0.000
+Loss after 04749 examples: 0.000
+Loss after 04774 examples: 0.000
+Loss after 04799 examples: 0.000
+Loss after 04824 examples: 0.000
+Loss after 04849 examples: 0.000
+Loss after 04874 examples: 0.000
+Loss after 04899 examples: 0.000
+Loss after 04924 examples: 0.000
+Loss after 04949 examples: 0.000
+Loss after 04974 examples: 0.000
+
+ 10%|█████████████████▌                                                                                                                                                              | 10/100 [02:01<18:19, 12.21s/it]
+Loss after 05024 examples: 0.000
+Loss after 05049 examples: 0.000
+Loss after 05074 examples: 0.000
+Loss after 05099 examples: 0.000
+Loss after 05124 examples: 0.000
+Loss after 05149 examples: 0.000
+Loss after 05174 examples: 0.000
+Loss after 05199 examples: 0.000
+Loss after 05224 examples: 0.000
+Loss after 05249 examples: 0.000
+Loss after 05274 examples: 0.000
+Loss after 05299 examples: 0.000
+Loss after 05324 examples: 0.000
+Loss after 05349 examples: 0.000
+Loss after 05374 examples: 0.000
+Loss after 05399 examples: 0.000
+Loss after 05424 examples: 0.000
+Loss after 05449 examples: 0.000
+Loss after 05474 examples: 0.000
+
+ 11%|███████████████████▎                                                                                                                                                            | 11/100 [02:13<18:06, 12.21s/it]
+Loss after 05524 examples: 0.000
+Loss after 05549 examples: 0.000
+Loss after 05574 examples: 0.000
+Loss after 05599 examples: 0.000
+Loss after 05624 examples: 0.000
+Loss after 05649 examples: 0.000
+Loss after 05674 examples: 0.000
+Loss after 05699 examples: 0.000
+Loss after 05724 examples: 0.000
+Loss after 05749 examples: 0.000
+Loss after 05774 examples: 0.000
+Loss after 05799 examples: 0.000
+Loss after 05824 examples: 0.000
+Loss after 05849 examples: 0.000
+Loss after 05874 examples: 0.000
+Loss after 05899 examples: 0.000
+Loss after 05924 examples: 0.000
+Loss after 05949 examples: 0.000
+Loss after 05974 examples: 0.000
+Loss after 05999 examples: 0.000
+
+ 12%|█████████████████████                                                                                                                                                           | 12/100 [02:25<17:55, 12.22s/it]
+Loss after 06049 examples: 0.000
+Loss after 06074 examples: 0.000
+Loss after 06099 examples: 0.000
+Loss after 06124 examples: 0.000
+Loss after 06149 examples: 0.000
+Loss after 06174 examples: 0.000
+Loss after 06199 examples: 0.000
+Loss after 06224 examples: 0.000
+Loss after 06249 examples: 0.000
+Loss after 06274 examples: 0.000
+Loss after 06299 examples: 0.000
+Loss after 06324 examples: 0.000
+Loss after 06349 examples: 0.000
+Loss after 06374 examples: 0.000
+Loss after 06399 examples: 0.000
+Loss after 06424 examples: 0.000
+Loss after 06449 examples: 0.000
+Loss after 06474 examples: 0.000
+Loss after 06499 examples: 0.000
+
+ 13%|██████████████████████▉                                                                                                                                                         | 13/100 [02:38<17:46, 12.26s/it]
+Loss after 06549 examples: 0.000
+Loss after 06574 examples: 0.000
+Loss after 06599 examples: 0.000
+Loss after 06624 examples: 0.000
+Loss after 06649 examples: 0.000
+Loss after 06674 examples: 0.000
+Loss after 06699 examples: 0.000
+Loss after 06724 examples: 0.000
+Loss after 06749 examples: 0.000
+Loss after 06774 examples: 0.000
+Loss after 06799 examples: 0.000
+Loss after 06824 examples: 0.000
+Loss after 06849 examples: 0.000
+Loss after 06874 examples: 0.000
+Loss after 06899 examples: 0.000
+Loss after 06924 examples: 0.000
+Loss after 06949 examples: 0.000
+Loss after 06974 examples: 0.000
+Loss after 06999 examples: 0.000
+
+ 14%|████████████████████████▋                                                                                                                                                       | 14/100 [02:50<17:32, 12.24s/it]
+Loss after 07049 examples: 0.000
+Loss after 07074 examples: 0.000
+Loss after 07099 examples: 0.000
+Loss after 07124 examples: 0.000
+Loss after 07149 examples: 0.000
+Loss after 07174 examples: 0.000
+Loss after 07199 examples: 0.000
+Loss after 07224 examples: 0.000
+Loss after 07249 examples: 0.000
+Loss after 07274 examples: 0.000
+Loss after 07299 examples: 0.000
+Loss after 07324 examples: 0.000
+Loss after 07349 examples: 0.000
+Loss after 07374 examples: 0.000
+Loss after 07399 examples: 0.000
+Loss after 07424 examples: 0.000
+Loss after 07449 examples: 0.000
+Loss after 07474 examples: 0.000
+Loss after 07499 examples: 0.000
+
+ 15%|██████████████████████████▍                                                                                                                                                     | 15/100 [03:02<17:21, 12.26s/it]
+Loss after 07549 examples: 0.000
+Loss after 07574 examples: 0.000
+Loss after 07599 examples: 0.000
+Loss after 07624 examples: 0.000
+Loss after 07649 examples: 0.000
+Loss after 07674 examples: 0.000
+Loss after 07699 examples: 0.000
+Loss after 07724 examples: 0.000
+Loss after 07749 examples: 0.000
+Loss after 07774 examples: 0.000
+Loss after 07799 examples: 0.000
+Loss after 07824 examples: 0.000
+Loss after 07849 examples: 0.000
+Loss after 07874 examples: 0.000
+Loss after 07899 examples: 0.000
+Loss after 07924 examples: 0.000
+Loss after 07949 examples: 0.000
+Loss after 07974 examples: 0.000
+Loss after 07999 examples: 0.000
+
+ 16%|████████████████████████████▏                                                                                                                                                   | 16/100 [03:15<17:10, 12.27s/it]
+Loss after 08049 examples: 0.000
+Loss after 08074 examples: 0.000
+Loss after 08099 examples: 0.000
+Loss after 08124 examples: 0.000
+Loss after 08149 examples: 0.000
+Loss after 08174 examples: 0.000
+Loss after 08199 examples: 0.000
+Loss after 08224 examples: 0.000
+Loss after 08249 examples: 0.000
+Loss after 08274 examples: 0.000
+Loss after 08299 examples: 0.000
+Loss after 08324 examples: 0.000
+Loss after 08349 examples: 0.000
+Loss after 08374 examples: 0.000
+Loss after 08399 examples: 0.000
+Loss after 08424 examples: 0.000
+Loss after 08449 examples: 0.000
+Loss after 08474 examples: 0.000
+Loss after 08499 examples: 0.000
+
+ 17%|█████████████████████████████▉                                                                                                                                                  | 17/100 [03:27<16:56, 12.24s/it]
+Loss after 08549 examples: 0.000
+Loss after 08574 examples: 0.000
+Loss after 08599 examples: 0.000
+Loss after 08624 examples: 0.000
+Loss after 08649 examples: 0.000
+Loss after 08674 examples: 0.000
+Loss after 08699 examples: 0.000
+Loss after 08724 examples: 0.000
+Loss after 08749 examples: 0.000
+Loss after 08774 examples: 0.000
+Loss after 08799 examples: 0.000
+Loss after 08824 examples: 0.000
+Loss after 08849 examples: 0.000
+Loss after 08874 examples: 0.000
+Loss after 08899 examples: 0.000
+Loss after 08924 examples: 0.000
+Loss after 08949 examples: 0.000
+Loss after 08974 examples: 0.000
+Loss after 08999 examples: 0.000
+
+ 18%|███████████████████████████████▋                                                                                                                                                | 18/100 [03:39<16:42, 12.23s/it]
+Loss after 09049 examples: 0.000
+Loss after 09074 examples: 0.000
+Loss after 09099 examples: 0.000
+Loss after 09124 examples: 0.000
+Loss after 09149 examples: 0.000
+Loss after 09174 examples: 0.000
+Loss after 09199 examples: 0.000
+Loss after 09224 examples: 0.000
+Loss after 09249 examples: 0.000
+Loss after 09274 examples: 0.000
+Loss after 09299 examples: 0.000
+Loss after 09324 examples: 0.000
+Loss after 09349 examples: 0.000
+Loss after 09374 examples: 0.000
+Loss after 09399 examples: 0.000
+Loss after 09424 examples: 0.000
+Loss after 09449 examples: 0.000
+Loss after 09474 examples: 0.000
+Loss after 09499 examples: 0.000
+
+ 19%|█████████████████████████████████▍                                                                                                                                              | 19/100 [03:51<16:30, 12.23s/it]
+Loss after 09549 examples: 0.000
+Loss after 09574 examples: 0.000
+Loss after 09599 examples: 0.000
+Loss after 09624 examples: 0.000
+Loss after 09649 examples: 0.000
+Loss after 09674 examples: 0.000
+Loss after 09699 examples: 0.000
+Loss after 09724 examples: 0.000
+Loss after 09749 examples: 0.000
+Loss after 09774 examples: 0.000
+Loss after 09799 examples: 0.000
+Loss after 09824 examples: 0.000
+Loss after 09849 examples: 0.000
+Loss after 09874 examples: 0.000
+Loss after 09899 examples: 0.000
+Loss after 09924 examples: 0.000
+Loss after 09949 examples: 0.000
+Loss after 09974 examples: 0.000
+Loss after 09999 examples: 0.000
+
+ 20%|███████████████████████████████████▏                                                                                                                                            | 20/100 [04:03<16:16, 12.21s/it]
+Loss after 10049 examples: 0.000
+Loss after 10074 examples: 0.000
+Loss after 10099 examples: 0.000
+Loss after 10124 examples: 0.000
+Loss after 10149 examples: 0.000
+Loss after 10174 examples: 0.000
+Loss after 10199 examples: 0.000
+Loss after 10224 examples: 0.000
+Loss after 10249 examples: 0.000
+Loss after 10274 examples: 0.000
+Loss after 10299 examples: 0.000
+Loss after 10324 examples: 0.000
+Loss after 10349 examples: 0.000
+Loss after 10374 examples: 0.000
+Loss after 10399 examples: 0.000
+Loss after 10424 examples: 0.000
+Loss after 10449 examples: 0.000
+Loss after 10474 examples: 0.000
+Loss after 10499 examples: 0.000
+
+ 21%|████████████████████████████████████▉                                                                                                                                           | 21/100 [04:16<16:05, 12.22s/it]
+Loss after 10549 examples: 0.000
+Loss after 10574 examples: 0.000
+Loss after 10599 examples: 0.000
+Loss after 10624 examples: 0.000
+Loss after 10649 examples: 0.000
+Loss after 10674 examples: 0.000
+Loss after 10699 examples: 0.000
+Loss after 10724 examples: 0.000
+Loss after 10749 examples: 0.000
+Loss after 10774 examples: 0.000
+Loss after 10799 examples: 0.000
+Loss after 10824 examples: 0.000
+Loss after 10849 examples: 0.000
+Loss after 10874 examples: 0.000
+Loss after 10899 examples: 0.000
+Loss after 10924 examples: 0.000
+Loss after 10949 examples: 0.000
+Loss after 10974 examples: 0.000
+Loss after 10999 examples: 0.000
+
+ 22%|██████████████████████████████████████▋                                                                                                                                         | 22/100 [04:28<16:01, 12.33s/it]
+Loss after 11049 examples: 0.000
+Loss after 11074 examples: 0.000
+Loss after 11099 examples: 0.000
+Loss after 11124 examples: 0.000
+Loss after 11149 examples: 0.000
+Loss after 11174 examples: 0.000
+Loss after 11199 examples: 0.000
+Loss after 11224 examples: 0.000
+Loss after 11249 examples: 0.000
+Loss after 11274 examples: 0.000
+Loss after 11299 examples: 0.000
+Loss after 11324 examples: 0.000
+Loss after 11349 examples: 0.000
+Loss after 11374 examples: 0.000
+Loss after 11399 examples: 0.000
+Loss after 11424 examples: 0.000
+Loss after 11449 examples: 0.000
+Loss after 11474 examples: 0.000
+Loss after 11499 examples: 0.000
+
+ 23%|████████████████████████████████████████▍                                                                                                                                       | 23/100 [04:41<16:05, 12.54s/it]
+Loss after 11549 examples: 0.000
+Loss after 11574 examples: 0.000
+Loss after 11599 examples: 0.000
+Loss after 11624 examples: 0.000
+Loss after 11649 examples: 0.000
+Loss after 11674 examples: 0.000
+Loss after 11699 examples: 0.000
+Loss after 11724 examples: 0.000
+Loss after 11749 examples: 0.000
+Loss after 11774 examples: 0.000
+Loss after 11799 examples: 0.000
+Loss after 11824 examples: 0.000
+Loss after 11849 examples: 0.000
+Loss after 11874 examples: 0.000
+Loss after 11899 examples: 0.000
+Loss after 11924 examples: 0.000
+Loss after 11949 examples: 0.000
+Loss after 11974 examples: 0.000
+Loss after 11999 examples: 0.000
+
+ 24%|██████████████████████████████████████████▏                                                                                                                                     | 24/100 [04:53<15:40, 12.37s/it]
+Loss after 12049 examples: 0.000
+Loss after 12074 examples: 0.000
+Loss after 12099 examples: 0.000
+Loss after 12124 examples: 0.000
+Loss after 12149 examples: 0.000
+Loss after 12174 examples: 0.000
+Loss after 12199 examples: 0.000
+Loss after 12224 examples: 0.000
+Loss after 12249 examples: 0.000
+Loss after 12274 examples: 0.000
+Loss after 12299 examples: 0.000
+Loss after 12324 examples: 0.000
+Loss after 12349 examples: 0.000
+Loss after 12374 examples: 0.000
+Loss after 12399 examples: 0.000
+Loss after 12424 examples: 0.000
+Loss after 12449 examples: 0.000
+Loss after 12474 examples: 0.000
+Loss after 12499 examples: 0.000
+Loss after 12524 examples: 0.000
+
+ 25%|████████████████████████████████████████████                                                                                                                                    | 25/100 [05:04<14:51, 11.88s/it]
+Loss after 12574 examples: 0.000
+Loss after 12599 examples: 0.000
+Loss after 12624 examples: 0.000
+Loss after 12649 examples: 0.000
+Loss after 12674 examples: 0.000
+Loss after 12699 examples: 0.000
+Loss after 12724 examples: 0.000
+Loss after 12749 examples: 0.000
+Loss after 12774 examples: 0.000
+Loss after 12799 examples: 0.000
+Loss after 12824 examples: 0.000
+Loss after 12849 examples: 0.000
+Loss after 12874 examples: 0.000
+Loss after 12899 examples: 0.000
+Loss after 12924 examples: 0.000
+Loss after 12949 examples: 0.000
+Loss after 12974 examples: 0.000
+Loss after 12999 examples: 0.000
+Loss after 13024 examples: 0.000
+
+ 26%|█████████████████████████████████████████████▊                                                                                                                                  | 26/100 [05:16<14:46, 11.97s/it]
+Loss after 13074 examples: 0.000
+Loss after 13099 examples: 0.000
+Loss after 13124 examples: 0.000
+Loss after 13149 examples: 0.000
+Loss after 13174 examples: 0.000
+Loss after 13199 examples: 0.000
+Loss after 13224 examples: 0.000
+Loss after 13249 examples: 0.000
+Loss after 13274 examples: 0.000
+Loss after 13299 examples: 0.000
+Loss after 13324 examples: 0.000
+Loss after 13349 examples: 0.000
+Loss after 13374 examples: 0.000
+Loss after 13399 examples: 0.000
+Loss after 13424 examples: 0.000
+Loss after 13449 examples: 0.000
+Loss after 13474 examples: 0.000
+Loss after 13499 examples: 0.000
+Loss after 13524 examples: 0.000
+
+ 27%|███████████████████████████████████████████████▌                                                                                                                                | 27/100 [05:29<14:50, 12.20s/it]
+Loss after 13574 examples: 0.000
+Loss after 13599 examples: 0.000
+Loss after 13624 examples: 0.000
+Loss after 13649 examples: 0.000
+Loss after 13674 examples: 0.000
+Loss after 13699 examples: 0.000
+Loss after 13724 examples: 0.000
+Loss after 13749 examples: 0.000
+Loss after 13774 examples: 0.000
+Loss after 13799 examples: 0.000
+Loss after 13824 examples: 0.000
+Loss after 13849 examples: 0.000
+Loss after 13874 examples: 0.000
+Loss after 13899 examples: 0.000
+Loss after 13924 examples: 0.000
+Loss after 13949 examples: 0.000
+Loss after 13974 examples: 0.000
+Loss after 13999 examples: 0.000
+Loss after 14024 examples: 0.000
+
+ 28%|█████████████████████████████████████████████████▎                                                                                                                              | 28/100 [05:41<14:37, 12.18s/it]
+Loss after 14074 examples: 0.000
+Loss after 14099 examples: 0.000
+Loss after 14124 examples: 0.000
+Loss after 14149 examples: 0.000
+Loss after 14174 examples: 0.000
+Loss after 14199 examples: 0.000
+Loss after 14224 examples: 0.000
+Loss after 14249 examples: 0.000
+Loss after 14274 examples: 0.000
+Loss after 14299 examples: 0.000
+Loss after 14324 examples: 0.000
+Loss after 14349 examples: 0.000
+Loss after 14374 examples: 0.000
+Loss after 14399 examples: 0.000
+Loss after 14424 examples: 0.000
+Loss after 14449 examples: 0.000
+Loss after 14474 examples: 0.000
+Loss after 14499 examples: 0.000
+Loss after 14524 examples: 0.000
+
+ 29%|███████████████████████████████████████████████████                                                                                                                             | 29/100 [05:53<14:19, 12.11s/it]
+Loss after 14574 examples: 0.000
+Loss after 14599 examples: 0.000
+Loss after 14624 examples: 0.000
+Loss after 14649 examples: 0.000
+Loss after 14674 examples: 0.000
+Loss after 14699 examples: 0.000
+Loss after 14724 examples: 0.000
+Loss after 14749 examples: 0.000
+Loss after 14774 examples: 0.000
+Loss after 14799 examples: 0.000
+Loss after 14824 examples: 0.000
+Loss after 14849 examples: 0.000
+Loss after 14874 examples: 0.000
+Loss after 14899 examples: 0.000
+Loss after 14924 examples: 0.000
+Loss after 14949 examples: 0.000
+Loss after 14974 examples: 0.000
+Loss after 14999 examples: 0.000
+Loss after 15024 examples: 0.000
+
+ 30%|████████████████████████████████████████████████████▊                                                                                                                           | 30/100 [06:05<14:10, 12.15s/it]
+Loss after 15074 examples: 0.000
+Loss after 15099 examples: 0.000
+Loss after 15124 examples: 0.000
+Loss after 15149 examples: 0.000
+Loss after 15174 examples: 0.000
+Loss after 15199 examples: 0.000
+Loss after 15224 examples: 0.000
+Loss after 15249 examples: 0.000
+Loss after 15274 examples: 0.000
+Loss after 15299 examples: 0.000
+Loss after 15324 examples: 0.000
+Loss after 15349 examples: 0.000
+Loss after 15374 examples: 0.000
+Loss after 15399 examples: 0.000
+Loss after 15424 examples: 0.000
+Loss after 15449 examples: 0.000
+Loss after 15474 examples: 0.000
+Loss after 15499 examples: 0.000
+Loss after 15524 examples: 0.000
+
+ 31%|██████████████████████████████████████████████████████▌                                                                                                                         | 31/100 [06:17<13:57, 12.14s/it]
+Loss after 15574 examples: 0.000
+Loss after 15599 examples: 0.000
+Loss after 15624 examples: 0.000
+Loss after 15649 examples: 0.000
+Loss after 15674 examples: 0.000
+Loss after 15699 examples: 0.000
+Loss after 15724 examples: 0.000
+Loss after 15749 examples: 0.000
+Loss after 15774 examples: 0.000
+Loss after 15799 examples: 0.000
+Loss after 15824 examples: 0.000
+Loss after 15849 examples: 0.000
+Loss after 15874 examples: 0.000
+Loss after 15899 examples: 0.000
+Loss after 15924 examples: 0.000
+Loss after 15949 examples: 0.000
+Loss after 15974 examples: 0.000
+Loss after 15999 examples: 0.000
+Loss after 16024 examples: 0.000
+
+ 32%|████████████████████████████████████████████████████████▎                                                                                                                       | 32/100 [06:30<13:46, 12.16s/it]
+Loss after 16074 examples: 0.000
+Loss after 16099 examples: 0.000
+Loss after 16124 examples: 0.000
+Loss after 16149 examples: 0.000
+Loss after 16174 examples: 0.000
+Loss after 16199 examples: 0.000
+Loss after 16224 examples: 0.000
+Loss after 16249 examples: 0.000
+Loss after 16274 examples: 0.000
+Loss after 16299 examples: 0.000
+Loss after 16324 examples: 0.000
+Loss after 16349 examples: 0.000
+Loss after 16374 examples: 0.000
+Loss after 16399 examples: 0.000
+Loss after 16424 examples: 0.000
+Loss after 16449 examples: 0.000
+Loss after 16474 examples: 0.000
+Loss after 16499 examples: 0.000
+Loss after 16524 examples: 0.000
+
+ 33%|██████████████████████████████████████████████████████████                                                                                                                      | 33/100 [06:42<13:34, 12.16s/it]
+Loss after 16574 examples: 0.000
+Loss after 16599 examples: 0.000
+Loss after 16624 examples: 0.000
+Loss after 16649 examples: 0.000
+Loss after 16674 examples: 0.000
+Loss after 16699 examples: 0.000
+Loss after 16724 examples: 0.000
+Loss after 16749 examples: 0.000
+Loss after 16774 examples: 0.000
+Loss after 16799 examples: 0.000
+Loss after 16824 examples: 0.000
+Loss after 16849 examples: 0.000
+Loss after 16874 examples: 0.000
+Loss after 16899 examples: 0.000
+Loss after 16924 examples: 0.000
+Loss after 16949 examples: 0.000
+Loss after 16974 examples: 0.000
+Loss after 16999 examples: 0.000
+Loss after 17024 examples: 0.000
+
+ 34%|███████████████████████████████████████████████████████████▊                                                                                                                    | 34/100 [06:54<13:23, 12.18s/it]
+Loss after 17074 examples: 0.000
+Loss after 17099 examples: 0.000
+Loss after 17124 examples: 0.000
+Loss after 17149 examples: 0.000
+Loss after 17174 examples: 0.000
+Loss after 17199 examples: 0.000
+Loss after 17224 examples: 0.000
+Loss after 17249 examples: 0.000
+Loss after 17274 examples: 0.000
+Loss after 17299 examples: 0.000
+Loss after 17324 examples: 0.000
+Loss after 17349 examples: 0.000
+Loss after 17374 examples: 0.000
+Loss after 17399 examples: 0.000
+Loss after 17424 examples: 0.000
+Loss after 17449 examples: 0.000
+Loss after 17474 examples: 0.000
+Loss after 17499 examples: 0.000
+Loss after 17524 examples: 0.000
+
+ 35%|█████████████████████████████████████████████████████████████▌                                                                                                                  | 35/100 [07:06<13:09, 12.15s/it]
+Loss after 17574 examples: 0.000
+Loss after 17599 examples: 0.000
+Loss after 17624 examples: 0.000
+Loss after 17649 examples: 0.000
+Loss after 17674 examples: 0.000
+Loss after 17699 examples: 0.000
+Loss after 17724 examples: 0.000
+Loss after 17749 examples: 0.000
+Loss after 17774 examples: 0.000
+Loss after 17799 examples: 0.000
+Loss after 17824 examples: 0.000
+Loss after 17849 examples: 0.000
+Loss after 17874 examples: 0.000
+Loss after 17899 examples: 0.000
+Loss after 17924 examples: 0.000
+Loss after 17949 examples: 0.000
+Loss after 17974 examples: 0.000
+Loss after 17999 examples: 0.000
+Loss after 18024 examples: 0.000
+
+ 36%|███████████████████████████████████████████████████████████████▎                                                                                                                | 36/100 [07:18<12:58, 12.17s/it]
+Loss after 18074 examples: 0.000
+Loss after 18099 examples: 0.000
+Loss after 18124 examples: 0.000
+Loss after 18149 examples: 0.000
+Loss after 18174 examples: 0.000
+Loss after 18199 examples: 0.000
+Loss after 18224 examples: 0.000
+Loss after 18249 examples: 0.000
+Loss after 18274 examples: 0.000
+Loss after 18299 examples: 0.000
+Loss after 18324 examples: 0.000
+Loss after 18349 examples: 0.000
+Loss after 18374 examples: 0.000
+Loss after 18399 examples: 0.000
+Loss after 18424 examples: 0.000
+Loss after 18449 examples: 0.000
+Loss after 18474 examples: 0.000
+Loss after 18499 examples: 0.000
+Loss after 18524 examples: 0.000
+Loss after 18549 examples: 0.000
+
+ 37%|█████████████████████████████████████████████████████████████████                                                                                                               | 37/100 [07:30<12:46, 12.16s/it]
+Loss after 18599 examples: 0.000
+Loss after 18624 examples: 0.000
+Loss after 18649 examples: 0.000
+Loss after 18674 examples: 0.000
+Loss after 18699 examples: 0.000
+Loss after 18724 examples: 0.000
+Loss after 18749 examples: 0.000
+Loss after 18774 examples: 0.000
+Loss after 18799 examples: 0.000
+Loss after 18824 examples: 0.000
+Loss after 18849 examples: 0.000
+Loss after 18874 examples: 0.000
+Loss after 18899 examples: 0.000
+Loss after 18924 examples: 0.000
+Loss after 18949 examples: 0.000
+Loss after 18974 examples: 0.000
+Loss after 18999 examples: 0.000
+Loss after 19024 examples: 0.000
+Loss after 19049 examples: 0.000
+
+ 38%|██████████████████████████████████████████████████████████████████▉                                                                                                             | 38/100 [07:43<12:35, 12.18s/it]
+Loss after 19099 examples: 0.000
+Loss after 19124 examples: 0.000
+Loss after 19149 examples: 0.000
+Loss after 19174 examples: 0.000
+Loss after 19199 examples: 0.000
+Loss after 19224 examples: 0.000
+Loss after 19249 examples: 0.000
+Loss after 19274 examples: 0.000
+Loss after 19299 examples: 0.000
+Loss after 19324 examples: 0.000
+Loss after 19349 examples: 0.000
+Loss after 19374 examples: 0.000
+Loss after 19399 examples: 0.000
+Loss after 19424 examples: 0.000
+Loss after 19449 examples: 0.000
+Loss after 19474 examples: 0.000
+Loss after 19499 examples: 0.000
+Loss after 19524 examples: 0.000
+Loss after 19549 examples: 0.000
+
+ 39%|████████████████████████████████████████████████████████████████████▋                                                                                                           | 39/100 [07:55<12:23, 12.18s/it]
+Loss after 19599 examples: 0.000
+Loss after 19624 examples: 0.000
+Loss after 19649 examples: 0.000
+Loss after 19674 examples: 0.000
+Loss after 19699 examples: 0.000
+Loss after 19724 examples: 0.000
+Loss after 19749 examples: 0.000
+Loss after 19774 examples: 0.000
+Loss after 19799 examples: 0.000
+Loss after 19824 examples: 0.000
+Loss after 19849 examples: 0.000
+Loss after 19874 examples: 0.000
+Loss after 19899 examples: 0.000
+Loss after 19924 examples: 0.000
+Loss after 19949 examples: 0.000
+Loss after 19974 examples: 0.000
+Loss after 19999 examples: 0.000
+Loss after 20024 examples: 0.000
+Loss after 20049 examples: 0.000
+
+ 40%|██████████████████████████████████████████████████████████████████████▍                                                                                                         | 40/100 [08:07<12:11, 12.20s/it]
+Loss after 20099 examples: 0.000
+Loss after 20124 examples: 0.000
+Loss after 20149 examples: 0.000
+Loss after 20174 examples: 0.000
+Loss after 20199 examples: 0.000
+Loss after 20224 examples: 0.000
+Loss after 20249 examples: 0.000
+Loss after 20274 examples: 0.000
+Loss after 20299 examples: 0.000
+Loss after 20324 examples: 0.000
+Loss after 20349 examples: 0.000
+Loss after 20374 examples: 0.000
+Loss after 20399 examples: 0.000
+Loss after 20424 examples: 0.000
+Loss after 20449 examples: 0.000
+Loss after 20474 examples: 0.000
+Loss after 20499 examples: 0.000
+Loss after 20524 examples: 0.000
+Loss after 20549 examples: 0.000
+
+ 41%|████████████████████████████████████████████████████████████████████████▏                                                                                                       | 41/100 [08:19<11:58, 12.17s/it]
+Loss after 20599 examples: 0.000
+Loss after 20624 examples: 0.000
+Loss after 20649 examples: 0.000
+Loss after 20674 examples: 0.000
+Loss after 20699 examples: 0.000
+Loss after 20724 examples: 0.000
+Loss after 20749 examples: 0.000
+Loss after 20774 examples: 0.000
+Loss after 20799 examples: 0.000
+Loss after 20824 examples: 0.000
+Loss after 20849 examples: 0.000
+Loss after 20874 examples: 0.000
+Loss after 20899 examples: 0.000
+Loss after 20924 examples: 0.000
+Loss after 20949 examples: 0.000
+Loss after 20974 examples: 0.000
+Loss after 20999 examples: 0.000
+Loss after 21024 examples: 0.000
+Loss after 21049 examples: 0.000
+
+ 42%|█████████████████████████████████████████████████████████████████████████▉                                                                                                      | 42/100 [08:31<11:48, 12.22s/it]
+Loss after 21099 examples: 0.000
+Loss after 21124 examples: 0.000
+Loss after 21149 examples: 0.000
+Loss after 21174 examples: 0.000
+Loss after 21199 examples: 0.000
+Loss after 21224 examples: 0.000
+Loss after 21249 examples: 0.000
+Loss after 21274 examples: 0.000
+Loss after 21299 examples: 0.000
+Loss after 21324 examples: 0.000
+Loss after 21349 examples: 0.000
+Loss after 21374 examples: 0.000
+Loss after 21399 examples: 0.000
+Loss after 21424 examples: 0.000
+Loss after 21449 examples: 0.000
+Loss after 21474 examples: 0.000
+Loss after 21499 examples: 0.000
+Loss after 21524 examples: 0.000
+Loss after 21549 examples: 0.000
+
+ 43%|███████████████████████████████████████████████████████████████████████████▋                                                                                                    | 43/100 [08:44<11:35, 12.20s/it]
+Loss after 21599 examples: 0.000
+Loss after 21624 examples: 0.000
+Loss after 21649 examples: 0.000
+Loss after 21674 examples: 0.000
+Loss after 21699 examples: 0.000
+Loss after 21724 examples: 0.000
+Loss after 21749 examples: 0.000
+Loss after 21774 examples: 0.000
+Loss after 21799 examples: 0.000
+Loss after 21824 examples: 0.000
+Loss after 21849 examples: 0.000
+Loss after 21874 examples: 0.000
+Loss after 21899 examples: 0.000
+Loss after 21924 examples: 0.000
+Loss after 21949 examples: 0.000
+Loss after 21974 examples: 0.000
+Loss after 21999 examples: 0.000
+Loss after 22024 examples: 0.000
+Loss after 22049 examples: 0.000
+
+ 44%|█████████████████████████████████████████████████████████████████████████████▍                                                                                                  | 44/100 [08:56<11:21, 12.17s/it]
+Loss after 22099 examples: 0.000
+Loss after 22124 examples: 0.000
+Loss after 22149 examples: 0.000
+Loss after 22174 examples: 0.000
+Loss after 22199 examples: 0.000
+Loss after 22224 examples: 0.000
+Loss after 22249 examples: 0.000
+Loss after 22274 examples: 0.000
+Loss after 22299 examples: 0.000
+Loss after 22324 examples: 0.000
+Loss after 22349 examples: 0.000
+Loss after 22374 examples: 0.000
+Loss after 22399 examples: 0.000
+Loss after 22424 examples: 0.000
+Loss after 22449 examples: 0.000
+Loss after 22474 examples: 0.000
+Loss after 22499 examples: 0.000
+Loss after 22524 examples: 0.000
+Loss after 22549 examples: 0.000
+
+ 45%|███████████████████████████████████████████████████████████████████████████████▏                                                                                                | 45/100 [09:08<11:10, 12.18s/it]
+Loss after 22599 examples: 0.000
+Loss after 22624 examples: 0.000
+Loss after 22649 examples: 0.000
+Loss after 22674 examples: 0.000
+Loss after 22699 examples: 0.000
+Loss after 22724 examples: 0.000
+Loss after 22749 examples: 0.000
+Loss after 22774 examples: 0.000
+Loss after 22799 examples: 0.000
+Loss after 22824 examples: 0.000
+Loss after 22849 examples: 0.000
+Loss after 22874 examples: 0.000
+Loss after 22899 examples: 0.000
+Loss after 22924 examples: 0.000
+Loss after 22949 examples: 0.000
+Loss after 22974 examples: 0.000
+Loss after 22999 examples: 0.000
+Loss after 23024 examples: 0.000
+Loss after 23049 examples: 0.000
+
+ 46%|████████████████████████████████████████████████████████████████████████████████▉                                                                                               | 46/100 [09:20<10:58, 12.19s/it]
+Loss after 23099 examples: 0.000
+Loss after 23124 examples: 0.000
+Loss after 23149 examples: 0.000
+Loss after 23174 examples: 0.000
+Loss after 23199 examples: 0.000
+Loss after 23224 examples: 0.000
+Loss after 23249 examples: 0.000
+Loss after 23274 examples: 0.000
+Loss after 23299 examples: 0.000
+Loss after 23324 examples: 0.000
+Loss after 23349 examples: 0.000
+Loss after 23374 examples: 0.000
+Loss after 23399 examples: 0.000
+Loss after 23424 examples: 0.000
+Loss after 23449 examples: 0.000
+Loss after 23474 examples: 0.000
+Loss after 23499 examples: 0.000
+Loss after 23524 examples: 0.000
+Loss after 23549 examples: 0.000
+
+ 47%|██████████████████████████████████████████████████████████████████████████████████▋                                                                                             | 47/100 [09:32<10:46, 12.20s/it]
+Loss after 23599 examples: 0.000
+Loss after 23624 examples: 0.000
+Loss after 23649 examples: 0.000
+Loss after 23674 examples: 0.000
+Loss after 23699 examples: 0.000
+Loss after 23724 examples: 0.000
+Loss after 23749 examples: 0.000
+Loss after 23774 examples: 0.000
+Loss after 23799 examples: 0.000
+Loss after 23824 examples: 0.000
+Loss after 23849 examples: 0.000
+Loss after 23874 examples: 0.000
+Loss after 23899 examples: 0.000
+Loss after 23924 examples: 0.000
+Loss after 23949 examples: 0.000
+Loss after 23974 examples: 0.000
+Loss after 23999 examples: 0.000
+Loss after 24024 examples: 0.000
+Loss after 24049 examples: 0.000
+
+ 48%|████████████████████████████████████████████████████████████████████████████████████▍                                                                                           | 48/100 [09:45<10:34, 12.20s/it]
+Loss after 24099 examples: 0.000
+Loss after 24124 examples: 0.000
+Loss after 24149 examples: 0.000
+Loss after 24174 examples: 0.000
+Loss after 24199 examples: 0.000
+Loss after 24224 examples: 0.000
+Loss after 24249 examples: 0.000
+Loss after 24274 examples: 0.000
+Loss after 24299 examples: 0.000
+Loss after 24324 examples: 0.000
+Loss after 24349 examples: 0.000
+Loss after 24374 examples: 0.000
+Loss after 24399 examples: 0.000
+Loss after 24424 examples: 0.000
+Loss after 24449 examples: 0.000
+Loss after 24474 examples: 0.000
+Loss after 24499 examples: 0.000
+Loss after 24524 examples: 0.000
+Loss after 24549 examples: 0.000
+
+ 49%|██████████████████████████████████████████████████████████████████████████████████████▏                                                                                         | 49/100 [09:57<10:21, 12.18s/it]
+Loss after 24599 examples: 0.000
+Loss after 24624 examples: 0.000
+Loss after 24649 examples: 0.000
+Loss after 24674 examples: 0.000
+Loss after 24699 examples: 0.000
+Loss after 24724 examples: 0.000
+Loss after 24749 examples: 0.000
+Loss after 24774 examples: 0.000
+Loss after 24799 examples: 0.000
+Loss after 24824 examples: 0.000
+Loss after 24849 examples: 0.000
+Loss after 24874 examples: 0.000
+Loss after 24899 examples: 0.000
+Loss after 24924 examples: 0.000
+Loss after 24949 examples: 0.000
+Loss after 24974 examples: 0.000
+Loss after 24999 examples: 0.000
+Loss after 25024 examples: 0.000
+Loss after 25049 examples: 0.000
+Loss after 25074 examples: 0.000
+
+ 50%|████████████████████████████████████████████████████████████████████████████████████████                                                                                        | 50/100 [10:09<10:09, 12.19s/it]
+Loss after 25124 examples: 0.000
+Loss after 25149 examples: 0.000
+Loss after 25174 examples: 0.000
+Loss after 25199 examples: 0.000
+Loss after 25224 examples: 0.000
+Loss after 25249 examples: 0.000
+Loss after 25274 examples: 0.000
+Loss after 25299 examples: 0.000
+Loss after 25324 examples: 0.000
+Loss after 25349 examples: 0.000
+Loss after 25374 examples: 0.000
+Loss after 25399 examples: 0.000
+Loss after 25424 examples: 0.000
+Loss after 25449 examples: 0.000
+Loss after 25474 examples: 0.000
+Loss after 25499 examples: 0.000
+Loss after 25524 examples: 0.000
+Loss after 25549 examples: 0.000
+Loss after 25574 examples: 0.000
+
+ 51%|█████████████████████████████████████████████████████████████████████████████████████████▊                                                                                      | 51/100 [10:21<09:56, 12.17s/it]
+Loss after 25624 examples: 0.000
+Loss after 25649 examples: 0.000
+Loss after 25674 examples: 0.000
+Loss after 25699 examples: 0.000
+Loss after 25724 examples: 0.000
+Loss after 25749 examples: 0.000
+Loss after 25774 examples: 0.000
+Loss after 25799 examples: 0.000
+Loss after 25824 examples: 0.000
+Loss after 25849 examples: 0.000
+Loss after 25874 examples: 0.000
+Loss after 25899 examples: 0.000
+Loss after 25924 examples: 0.000
+Loss after 25949 examples: 0.000
+Loss after 25974 examples: 0.000
+Loss after 25999 examples: 0.000
+Loss after 26024 examples: 0.000
+Loss after 26049 examples: 0.000
+Loss after 26074 examples: 0.000
+
+ 52%|███████████████████████████████████████████████████████████████████████████████████████████▌                                                                                    | 52/100 [10:33<09:43, 12.16s/it]
+Loss after 26124 examples: 0.000
+Loss after 26149 examples: 0.000
+Loss after 26174 examples: 0.000
+Loss after 26199 examples: 0.000
+Loss after 26224 examples: 0.000
+Loss after 26249 examples: 0.000
+Loss after 26274 examples: 0.000
+Loss after 26299 examples: 0.000
+Loss after 26324 examples: 0.000
+Loss after 26349 examples: 0.000
+Loss after 26374 examples: 0.000
+Loss after 26399 examples: 0.000
+Loss after 26424 examples: 0.000
+Loss after 26449 examples: 0.000
+Loss after 26474 examples: 0.000
+Loss after 26499 examples: 0.000
+Loss after 26524 examples: 0.000
+Loss after 26549 examples: 0.000
+Loss after 26574 examples: 0.000
+
+ 53%|█████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                  | 53/100 [10:45<09:31, 12.16s/it]
+Loss after 26624 examples: 0.000
+Loss after 26649 examples: 0.000
+Loss after 26674 examples: 0.000
+Loss after 26699 examples: 0.000
+Loss after 26724 examples: 0.000
+Loss after 26749 examples: 0.000
+Loss after 26774 examples: 0.000
+Loss after 26799 examples: 0.000
+Loss after 26824 examples: 0.000
+Loss after 26849 examples: 0.000
+Loss after 26874 examples: 0.000
+Loss after 26899 examples: 0.000
+Loss after 26924 examples: 0.000
+Loss after 26949 examples: 0.000
+Loss after 26974 examples: 0.000
+Loss after 26999 examples: 0.000
+Loss after 27024 examples: 0.000
+Loss after 27049 examples: 0.000
+Loss after 27074 examples: 0.000
+
+ 54%|███████████████████████████████████████████████████████████████████████████████████████████████                                                                                 | 54/100 [10:58<09:20, 12.18s/it]
+Loss after 27124 examples: 0.000
+Loss after 27149 examples: 0.000
+Loss after 27174 examples: 0.000
+Loss after 27199 examples: 0.000
+Loss after 27224 examples: 0.000
+Loss after 27249 examples: 0.000
+Loss after 27274 examples: 0.000
+Loss after 27299 examples: 0.000
+Loss after 27324 examples: 0.000
+Loss after 27349 examples: 0.000
+Loss after 27374 examples: 0.000
+Loss after 27399 examples: 0.000
+Loss after 27424 examples: 0.000
+Loss after 27449 examples: 0.000
+Loss after 27474 examples: 0.000
+Loss after 27499 examples: 0.000
+Loss after 27524 examples: 0.000
+Loss after 27549 examples: 0.000
+Loss after 27574 examples: 0.000
+
+ 55%|████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                               | 55/100 [11:10<09:10, 12.23s/it]
+Loss after 27624 examples: 0.000
+Loss after 27649 examples: 0.000
+Loss after 27674 examples: 0.000
+Loss after 27699 examples: 0.000
+Loss after 27724 examples: 0.000
+Loss after 27749 examples: 0.000
+Loss after 27774 examples: 0.000
+Loss after 27799 examples: 0.000
+Loss after 27824 examples: 0.000
+Loss after 27849 examples: 0.000
+Loss after 27874 examples: 0.000
+Loss after 27899 examples: 0.000
+Loss after 27924 examples: 0.000
+Loss after 27949 examples: 0.000
+Loss after 27974 examples: 0.000
+Loss after 27999 examples: 0.000
+Loss after 28024 examples: 0.000
+Loss after 28049 examples: 0.000
+Loss after 28074 examples: 0.000
+
+ 56%|██████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                             | 56/100 [11:22<08:57, 12.21s/it]
+Loss after 28124 examples: 0.000
+Loss after 28149 examples: 0.000
+Loss after 28174 examples: 0.000
+Loss after 28199 examples: 0.000
+Loss after 28224 examples: 0.000
+Loss after 28249 examples: 0.000
+Loss after 28274 examples: 0.000
+Loss after 28299 examples: 0.000
+Loss after 28324 examples: 0.000
+Loss after 28349 examples: 0.000
+Loss after 28374 examples: 0.000
+Loss after 28399 examples: 0.000
+Loss after 28424 examples: 0.000
+Loss after 28449 examples: 0.000
+Loss after 28474 examples: 0.000
+Loss after 28499 examples: 0.000
+Loss after 28524 examples: 0.000
+Loss after 28549 examples: 0.000
+Loss after 28574 examples: 0.000
+
+ 57%|████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                           | 57/100 [11:34<08:44, 12.21s/it]
+Loss after 28624 examples: 0.000
+Loss after 28649 examples: 0.000
+Loss after 28674 examples: 0.000
+Loss after 28699 examples: 0.000
+Loss after 28724 examples: 0.000
+Loss after 28749 examples: 0.000
+Loss after 28774 examples: 0.000
+Loss after 28799 examples: 0.000
+Loss after 28824 examples: 0.000
+Loss after 28849 examples: 0.000
+Loss after 28874 examples: 0.000
+Loss after 28899 examples: 0.000
+Loss after 28924 examples: 0.000
+Loss after 28949 examples: 0.000
+Loss after 28974 examples: 0.000
+Loss after 28999 examples: 0.000
+Loss after 29024 examples: 0.000
+Loss after 29049 examples: 0.000
+Loss after 29074 examples: 0.000
+
+ 58%|██████████████████████████████████████████████████████████████████████████████████████████████████████                                                                          | 58/100 [11:46<08:32, 12.19s/it]
+Loss after 29124 examples: 0.000
+Loss after 29149 examples: 0.000
+Loss after 29174 examples: 0.000
+Loss after 29199 examples: 0.000
+Loss after 29224 examples: 0.000
+Loss after 29249 examples: 0.000
+Loss after 29274 examples: 0.000
+Loss after 29299 examples: 0.000
+Loss after 29324 examples: 0.000
+Loss after 29349 examples: 0.000
+Loss after 29374 examples: 0.000
+Loss after 29399 examples: 0.000
+Loss after 29424 examples: 0.000
+Loss after 29449 examples: 0.000
+Loss after 29474 examples: 0.000
+Loss after 29499 examples: 0.000
+Loss after 29524 examples: 0.000
+Loss after 29549 examples: 0.000
+Loss after 29574 examples: 0.000
+
+ 59%|███████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                        | 59/100 [11:58<08:18, 12.16s/it]
+Loss after 29624 examples: 0.000
+Loss after 29649 examples: 0.000
+Loss after 29674 examples: 0.000
+Loss after 29699 examples: 0.000
+Loss after 29724 examples: 0.000
+Loss after 29749 examples: 0.000
+Loss after 29774 examples: 0.000
+Loss after 29799 examples: 0.000
+Loss after 29824 examples: 0.000
+Loss after 29849 examples: 0.000
+Loss after 29874 examples: 0.000
+Loss after 29899 examples: 0.000
+Loss after 29924 examples: 0.000
+Loss after 29949 examples: 0.000
+Loss after 29974 examples: 0.000
+Loss after 29999 examples: 0.000
+Loss after 30024 examples: 0.000
+Loss after 30049 examples: 0.000
+Loss after 30074 examples: 0.000
+
+ 60%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                      | 60/100 [12:11<08:06, 12.15s/it]
+Loss after 30124 examples: 0.000
+Loss after 30149 examples: 0.000
+Loss after 30174 examples: 0.000
+Loss after 30199 examples: 0.000
+Loss after 30224 examples: 0.000
+Loss after 30249 examples: 0.000
+Loss after 30274 examples: 0.000
+Loss after 30299 examples: 0.000
+Loss after 30324 examples: 0.000
+Loss after 30349 examples: 0.000
+Loss after 30374 examples: 0.000
+Loss after 30399 examples: 0.000
+Loss after 30424 examples: 0.000
+Loss after 30449 examples: 0.000
+Loss after 30474 examples: 0.000
+Loss after 30499 examples: 0.000
+Loss after 30524 examples: 0.000
+Loss after 30549 examples: 0.000
+Loss after 30574 examples: 0.000
+
+ 61%|███████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                    | 61/100 [12:23<07:54, 12.17s/it]
+Loss after 30624 examples: 0.000
+Loss after 30649 examples: 0.000
+Loss after 30674 examples: 0.000
+Loss after 30699 examples: 0.000
+Loss after 30724 examples: 0.000
+Loss after 30749 examples: 0.000
+Loss after 30774 examples: 0.000
+Loss after 30799 examples: 0.000
+Loss after 30824 examples: 0.000
+Loss after 30849 examples: 0.000
+Loss after 30874 examples: 0.000
+Loss after 30899 examples: 0.000
+Loss after 30924 examples: 0.000
+Loss after 30949 examples: 0.000
+Loss after 30974 examples: 0.000
+Loss after 30999 examples: 0.000
+Loss after 31024 examples: 0.000
+Loss after 31049 examples: 0.000
+Loss after 31074 examples: 0.000
+Loss after 31099 examples: 0.000
+
+ 62%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                   | 62/100 [12:35<07:44, 12.22s/it]
+Loss after 31149 examples: 0.000
+Loss after 31174 examples: 0.000
+Loss after 31199 examples: 0.000
+Loss after 31224 examples: 0.000
+Loss after 31249 examples: 0.000
+Loss after 31274 examples: 0.000
+Loss after 31299 examples: 0.000
+Loss after 31324 examples: 0.000
+Loss after 31349 examples: 0.000
+Loss after 31374 examples: 0.000
+Loss after 31399 examples: 0.000
+Loss after 31424 examples: 0.000
+Loss after 31449 examples: 0.000
+Loss after 31474 examples: 0.000
+Loss after 31499 examples: 0.000
+Loss after 31524 examples: 0.000
+Loss after 31549 examples: 0.000
+Loss after 31574 examples: 0.000
+Loss after 31599 examples: 0.000
+
+ 63%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                 | 63/100 [12:47<07:31, 12.20s/it]
+Loss after 31649 examples: 0.000
+Loss after 31674 examples: 0.000
+Loss after 31699 examples: 0.000
+Loss after 31724 examples: 0.000
+Loss after 31749 examples: 0.000
+Loss after 31774 examples: 0.000
+Loss after 31799 examples: 0.000
+Loss after 31824 examples: 0.000
+Loss after 31849 examples: 0.000
+Loss after 31874 examples: 0.000
+Loss after 31899 examples: 0.000
+Loss after 31924 examples: 0.000
+Loss after 31949 examples: 0.000
+Loss after 31974 examples: 0.000
+Loss after 31999 examples: 0.000
+Loss after 32024 examples: 0.000
+Loss after 32049 examples: 0.000
+Loss after 32074 examples: 0.000
+Loss after 32099 examples: 0.000
+
+ 64%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                               | 64/100 [12:59<07:17, 12.15s/it]
+Loss after 32149 examples: 0.000
+Loss after 32174 examples: 0.000
+Loss after 32199 examples: 0.000
+Loss after 32224 examples: 0.000
+Loss after 32249 examples: 0.000
+Loss after 32274 examples: 0.000
+Loss after 32299 examples: 0.000
+Loss after 32324 examples: 0.000
+Loss after 32349 examples: 0.000
+Loss after 32374 examples: 0.000
+Loss after 32399 examples: 0.000
+Loss after 32424 examples: 0.000
+Loss after 32449 examples: 0.000
+Loss after 32474 examples: 0.000
+Loss after 32499 examples: 0.000
+Loss after 32524 examples: 0.000
+Loss after 32549 examples: 0.000
+Loss after 32574 examples: 0.000
+Loss after 32599 examples: 0.000
+
+ 65%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                             | 65/100 [13:12<07:05, 12.16s/it]
+Loss after 32649 examples: 0.000
+Loss after 32674 examples: 0.000
+Loss after 32699 examples: 0.000
+Loss after 32724 examples: 0.000
+Loss after 32749 examples: 0.000
+Loss after 32774 examples: 0.000
+Loss after 32799 examples: 0.000
+Loss after 32824 examples: 0.000
+Loss after 32849 examples: 0.000
+Loss after 32874 examples: 0.000
+Loss after 32899 examples: 0.000
+Loss after 32924 examples: 0.000
+Loss after 32949 examples: 0.000
+Loss after 32974 examples: 0.000
+Loss after 32999 examples: 0.000
+Loss after 33024 examples: 0.000
+Loss after 33049 examples: 0.000
+Loss after 33074 examples: 0.000
+Loss after 33099 examples: 0.000
+
+ 66%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                           | 66/100 [13:24<06:54, 12.20s/it]
+Loss after 33149 examples: 0.000
+Loss after 33174 examples: 0.000
+Loss after 33199 examples: 0.000
+Loss after 33224 examples: 0.000
+Loss after 33249 examples: 0.000
+Loss after 33274 examples: 0.000
+Loss after 33299 examples: 0.000
+Loss after 33324 examples: 0.000
+Loss after 33349 examples: 0.000
+Loss after 33374 examples: 0.000
+Loss after 33399 examples: 0.000
+Loss after 33424 examples: 0.000
+Loss after 33449 examples: 0.000
+Loss after 33474 examples: 0.000
+Loss after 33499 examples: 0.000
+Loss after 33524 examples: 0.000
+Loss after 33549 examples: 0.000
+Loss after 33574 examples: 0.000
+Loss after 33599 examples: 0.000
+
+ 67%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                          | 67/100 [13:36<06:41, 12.17s/it]
+Loss after 33649 examples: 0.000
+Loss after 33674 examples: 0.000
+Loss after 33699 examples: 0.000
+Loss after 33724 examples: 0.000
+Loss after 33749 examples: 0.000
+Loss after 33774 examples: 0.000
+Loss after 33799 examples: 0.000
+Loss after 33824 examples: 0.000
+Loss after 33849 examples: 0.000
+Loss after 33874 examples: 0.000
+Loss after 33899 examples: 0.000
+Loss after 33924 examples: 0.000
+Loss after 33949 examples: 0.000
+Loss after 33974 examples: 0.000
+Loss after 33999 examples: 0.000
+Loss after 34024 examples: 0.000
+Loss after 34049 examples: 0.000
+Loss after 34074 examples: 0.000
+Loss after 34099 examples: 0.000
+
+ 68%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                        | 68/100 [13:48<06:29, 12.17s/it]
+Loss after 34149 examples: 0.000
+Loss after 34174 examples: 0.000
+Loss after 34199 examples: 0.000
+Loss after 34224 examples: 0.000
+Loss after 34249 examples: 0.000
+Loss after 34274 examples: 0.000
+Loss after 34299 examples: 0.000
+Loss after 34324 examples: 0.000
+Loss after 34349 examples: 0.000
+Loss after 34374 examples: 0.000
+Loss after 34399 examples: 0.000
+Loss after 34424 examples: 0.000
+Loss after 34449 examples: 0.000
+Loss after 34474 examples: 0.000
+Loss after 34499 examples: 0.000
+Loss after 34524 examples: 0.000
+Loss after 34549 examples: 0.000
+Loss after 34574 examples: 0.000
+Loss after 34599 examples: 0.000
+
+ 69%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                      | 69/100 [14:00<06:18, 12.20s/it]
+Loss after 34649 examples: 0.000
+Loss after 34674 examples: 0.000
+Loss after 34699 examples: 0.000
+Loss after 34724 examples: 0.000
+Loss after 34749 examples: 0.000
+Loss after 34774 examples: 0.000
+Loss after 34799 examples: 0.000
+Loss after 34824 examples: 0.000
+Loss after 34849 examples: 0.000
+Loss after 34874 examples: 0.000
+Loss after 34899 examples: 0.000
+Loss after 34924 examples: 0.000
+Loss after 34949 examples: 0.000
+Loss after 34974 examples: 0.000
+Loss after 34999 examples: 0.000
+Loss after 35024 examples: 0.000
+Loss after 35049 examples: 0.000
+Loss after 35074 examples: 0.000
+Loss after 35099 examples: 0.000
+
+ 70%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                    | 70/100 [14:13<06:06, 12.21s/it]
+Loss after 35149 examples: 0.000
+Loss after 35174 examples: 0.000
+Loss after 35199 examples: 0.000
+Loss after 35224 examples: 0.000
+Loss after 35249 examples: 0.000
+Loss after 35274 examples: 0.000
+Loss after 35299 examples: 0.000
+Loss after 35324 examples: 0.000
+Loss after 35349 examples: 0.000
+Loss after 35374 examples: 0.000
+Loss after 35399 examples: 0.000
+Loss after 35424 examples: 0.000
+Loss after 35449 examples: 0.000
+Loss after 35474 examples: 0.000
+Loss after 35499 examples: 0.000
+Loss after 35524 examples: 0.000
+Loss after 35549 examples: 0.000
+Loss after 35574 examples: 0.000
+Loss after 35599 examples: 0.000
+
+ 71%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                   | 71/100 [14:25<05:53, 12.20s/it]
+Loss after 35649 examples: 0.000
+Loss after 35674 examples: 0.000
+Loss after 35699 examples: 0.000
+Loss after 35724 examples: 0.000
+Loss after 35749 examples: 0.000
+Loss after 35774 examples: 0.000
+Loss after 35799 examples: 0.000
+Loss after 35824 examples: 0.000
+Loss after 35849 examples: 0.000
+Loss after 35874 examples: 0.000
+Loss after 35899 examples: 0.000
+Loss after 35924 examples: 0.000
+Loss after 35949 examples: 0.000
+Loss after 35974 examples: 0.000
+Loss after 35999 examples: 0.000
+Loss after 36024 examples: 0.000
+Loss after 36049 examples: 0.000
+Loss after 36074 examples: 0.000
+Loss after 36099 examples: 0.000
+
+ 72%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                 | 72/100 [14:37<05:40, 12.18s/it]
+Loss after 36149 examples: 0.000
+Loss after 36174 examples: 0.000
+Loss after 36199 examples: 0.000
+Loss after 36224 examples: 0.000
+Loss after 36249 examples: 0.000
+Loss after 36274 examples: 0.000
+Loss after 36299 examples: 0.000
+Loss after 36324 examples: 0.000
+Loss after 36349 examples: 0.000
+Loss after 36374 examples: 0.000
+Loss after 36399 examples: 0.000
+Loss after 36424 examples: 0.000
+Loss after 36449 examples: 0.000
+Loss after 36474 examples: 0.000
+Loss after 36499 examples: 0.000
+Loss after 36524 examples: 0.000
+Loss after 36549 examples: 0.000
+Loss after 36574 examples: 0.000
+Loss after 36599 examples: 0.000
+
+ 73%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                               | 73/100 [14:49<05:28, 12.15s/it]
+Loss after 36649 examples: 0.000
+Loss after 36674 examples: 0.000
+Loss after 36699 examples: 0.000
+Loss after 36724 examples: 0.000
+Loss after 36749 examples: 0.000
+Loss after 36774 examples: 0.000
+Loss after 36799 examples: 0.000
+Loss after 36824 examples: 0.000
+Loss after 36849 examples: 0.000
+Loss after 36874 examples: 0.000
+Loss after 36899 examples: 0.000
+Loss after 36924 examples: 0.000
+Loss after 36949 examples: 0.000
+Loss after 36974 examples: 0.000
+Loss after 36999 examples: 0.000
+Loss after 37024 examples: 0.000
+Loss after 37049 examples: 0.000
+Loss after 37074 examples: 0.000
+Loss after 37099 examples: 0.000
+
+ 74%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                             | 74/100 [15:01<05:16, 12.18s/it]
+Loss after 37149 examples: 0.000
+Loss after 37174 examples: 0.000
+Loss after 37199 examples: 0.000
+Loss after 37224 examples: 0.000
+Loss after 37249 examples: 0.000
+Loss after 37274 examples: 0.000
+Loss after 37299 examples: 0.000
+Loss after 37324 examples: 0.000
+Loss after 37349 examples: 0.000
+Loss after 37374 examples: 0.000
+Loss after 37399 examples: 0.000
+Loss after 37424 examples: 0.000
+Loss after 37449 examples: 0.000
+Loss after 37474 examples: 0.000
+Loss after 37499 examples: 0.000
+Loss after 37524 examples: 0.000
+Loss after 37549 examples: 0.000
+Loss after 37574 examples: 0.000
+Loss after 37599 examples: 0.000
+Loss after 37624 examples: 0.000
+
+ 75%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                            | 75/100 [15:13<05:04, 12.17s/it]
+Loss after 37674 examples: 0.000
+Loss after 37699 examples: 0.000
+Loss after 37724 examples: 0.000
+Loss after 37749 examples: 0.000
+Loss after 37774 examples: 0.000
+Loss after 37799 examples: 0.000
+Loss after 37824 examples: 0.000
+Loss after 37849 examples: 0.000
+Loss after 37874 examples: 0.000
+Loss after 37899 examples: 0.000
+Loss after 37924 examples: 0.000
+Loss after 37949 examples: 0.000
+Loss after 37974 examples: 0.000
+Loss after 37999 examples: 0.000
+Loss after 38024 examples: 0.000
+Loss after 38049 examples: 0.000
+Loss after 38074 examples: 0.000
+Loss after 38099 examples: 0.000
+Loss after 38124 examples: 0.000
+
+ 76%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                          | 76/100 [15:26<04:51, 12.15s/it]
+Loss after 38174 examples: 0.000
+Loss after 38199 examples: 0.000
+Loss after 38224 examples: 0.000
+Loss after 38249 examples: 0.000
+Loss after 38274 examples: 0.000
+Loss after 38299 examples: 0.000
+Loss after 38324 examples: 0.000
+Loss after 38349 examples: 0.000
+Loss after 38374 examples: 0.000
+Loss after 38399 examples: 0.000
+Loss after 38424 examples: 0.000
+Loss after 38449 examples: 0.000
+Loss after 38474 examples: 0.000
+Loss after 38499 examples: 0.000
+Loss after 38524 examples: 0.000
+Loss after 38549 examples: 0.000
+Loss after 38574 examples: 0.000
+Loss after 38599 examples: 0.000
+Loss after 38624 examples: 0.000
+
+ 77%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                        | 77/100 [15:38<04:41, 12.23s/it]
+Loss after 38674 examples: 0.000
+Loss after 38699 examples: 0.000
+Loss after 38724 examples: 0.000
+Loss after 38749 examples: 0.000
+Loss after 38774 examples: 0.000
+Loss after 38799 examples: 0.000
+Loss after 38824 examples: 0.000
+Loss after 38849 examples: 0.000
+Loss after 38874 examples: 0.000
+Loss after 38899 examples: 0.000
+Loss after 38924 examples: 0.000
+Loss after 38949 examples: 0.000
+Loss after 38974 examples: 0.000
+Loss after 38999 examples: 0.000
+Loss after 39024 examples: 0.000
+Loss after 39049 examples: 0.000
+Loss after 39074 examples: 0.000
+Loss after 39099 examples: 0.000
+Loss after 39124 examples: 0.000
+
+ 78%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                      | 78/100 [15:50<04:29, 12.24s/it]
+Loss after 39174 examples: 0.000
+Loss after 39199 examples: 0.000
+Loss after 39224 examples: 0.000
+Loss after 39249 examples: 0.000
+Loss after 39274 examples: 0.000
+Loss after 39299 examples: 0.000
+Loss after 39324 examples: 0.000
+Loss after 39349 examples: 0.000
+Loss after 39374 examples: 0.000
+Loss after 39399 examples: 0.000
+Loss after 39424 examples: 0.000
+Loss after 39449 examples: 0.000
+Loss after 39474 examples: 0.000
+Loss after 39499 examples: 0.000
+Loss after 39524 examples: 0.000
+Loss after 39549 examples: 0.000
+Loss after 39574 examples: 0.000
+Loss after 39599 examples: 0.000
+Loss after 39624 examples: 0.000
+
+ 79%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                     | 79/100 [16:02<04:16, 12.23s/it]
+Loss after 39674 examples: 0.000
+Loss after 39699 examples: 0.000
+Loss after 39724 examples: 0.000
+Loss after 39749 examples: 0.000
+Loss after 39774 examples: 0.000
+Loss after 39799 examples: 0.000
+Loss after 39824 examples: 0.000
+Loss after 39849 examples: 0.000
+Loss after 39874 examples: 0.000
+Loss after 39899 examples: 0.000
+Loss after 39924 examples: 0.000
+Loss after 39949 examples: 0.000
+Loss after 39974 examples: 0.000
+Loss after 39999 examples: 0.000
+Loss after 40024 examples: 0.000
+Loss after 40049 examples: 0.000
+Loss after 40074 examples: 0.000
+Loss after 40099 examples: 0.000
+Loss after 40124 examples: 0.000
+
+ 80%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                   | 80/100 [16:15<04:04, 12.21s/it]
+Loss after 40174 examples: 0.000
+Loss after 40199 examples: 0.000
+Loss after 40224 examples: 0.000
+Loss after 40249 examples: 0.000
+Loss after 40274 examples: 0.000
+Loss after 40299 examples: 0.000
+Loss after 40324 examples: 0.000
+Loss after 40349 examples: 0.000
+Loss after 40374 examples: 0.000
+Loss after 40399 examples: 0.000
+Loss after 40424 examples: 0.000
+Loss after 40449 examples: 0.000
+Loss after 40474 examples: 0.000
+Loss after 40499 examples: 0.000
+Loss after 40524 examples: 0.000
+Loss after 40549 examples: 0.000
+Loss after 40574 examples: 0.000
+Loss after 40599 examples: 0.000
+Loss after 40624 examples: 0.000
+Loss after 40649 examples: 0.000
+Loss after 40674 examples: 0.000
+Loss after 40699 examples: 0.000
+Loss after 40724 examples: 0.000
+Loss after 40749 examples: 0.000
+Loss after 40774 examples: 0.000
+Loss after 40799 examples: 0.000
+Loss after 40824 examples: 0.000
+Loss after 40849 examples: 0.000
+Loss after 40874 examples: 0.000
+Loss after 40899 examples: 0.000
+Loss after 40924 examples: 0.000
+Loss after 40949 examples: 0.000
+Loss after 40974 examples: 0.000
+Loss after 40999 examples: 0.000
+Loss after 41024 examples: 0.000
+Loss after 41049 examples: 0.000
+Loss after 41074 examples: 0.000
+Loss after 41099 examples: 0.000
+Loss after 41124 examples: 0.000
+
+ 82%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                               | 82/100 [16:39<03:40, 12.26s/it]
+Loss after 41174 examples: 0.000
+Loss after 41199 examples: 0.000
+Loss after 41224 examples: 0.000
+Loss after 41249 examples: 0.000
+Loss after 41274 examples: 0.000
+Loss after 41299 examples: 0.000
+Loss after 41324 examples: 0.000
+Loss after 41349 examples: 0.000
+Loss after 41374 examples: 0.000
+Loss after 41399 examples: 0.000
+Loss after 41424 examples: 0.000
+Loss after 41449 examples: 0.000
+Loss after 41474 examples: 0.000
+Loss after 41499 examples: 0.000
+Loss after 41524 examples: 0.000
+Loss after 41549 examples: 0.000
+Loss after 41574 examples: 0.000
+Loss after 41599 examples: 0.000
+Loss after 41624 examples: 0.000
+
+ 83%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                              | 83/100 [16:51<03:27, 12.21s/it]
+Loss after 41674 examples: 0.000
+Loss after 41699 examples: 0.000
+Loss after 41724 examples: 0.000
+Loss after 41749 examples: 0.000
+Loss after 41774 examples: 0.000
+Loss after 41799 examples: 0.000
+Loss after 41824 examples: 0.000
+Loss after 41849 examples: 0.000
+Loss after 41874 examples: 0.000
+Loss after 41899 examples: 0.000
+Loss after 41924 examples: 0.000
+Loss after 41949 examples: 0.000
+Loss after 41974 examples: 0.000
+Loss after 41999 examples: 0.000
+Loss after 42024 examples: 0.000
+Loss after 42049 examples: 0.000
+Loss after 42074 examples: 0.000
+Loss after 42099 examples: 0.000
+Loss after 42124 examples: 0.000
+
+ 84%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                            | 84/100 [17:03<03:14, 12.18s/it]
+Loss after 42174 examples: 0.000
+Loss after 42199 examples: 0.000
+Loss after 42224 examples: 0.000
+Loss after 42249 examples: 0.000
+Loss after 42274 examples: 0.000
+Loss after 42299 examples: 0.000
+Loss after 42324 examples: 0.000
+Loss after 42349 examples: 0.000
+Loss after 42374 examples: 0.000
+Loss after 42399 examples: 0.000
+Loss after 42424 examples: 0.000
+Loss after 42449 examples: 0.000
+Loss after 42474 examples: 0.000
+Loss after 42499 examples: 0.000
+Loss after 42524 examples: 0.000
+Loss after 42549 examples: 0.000
+Loss after 42574 examples: 0.000
+Loss after 42599 examples: 0.000
+Loss after 42624 examples: 0.000
+
+ 85%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                          | 85/100 [17:15<03:02, 12.16s/it]
+Loss after 42674 examples: 0.000
+Loss after 42699 examples: 0.000
+Loss after 42724 examples: 0.000
+Loss after 42749 examples: 0.000
+Loss after 42774 examples: 0.000
+Loss after 42799 examples: 0.000
+Loss after 42824 examples: 0.000
+Loss after 42849 examples: 0.000
+Loss after 42874 examples: 0.000
+Loss after 42899 examples: 0.000
+Loss after 42924 examples: 0.000
+Loss after 42949 examples: 0.000
+Loss after 42974 examples: 0.000
+Loss after 42999 examples: 0.000
+Loss after 43024 examples: 0.000
+Loss after 43049 examples: 0.000
+Loss after 43074 examples: 0.000
+Loss after 43099 examples: 0.000
+Loss after 43124 examples: 0.000
+
+ 86%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                        | 86/100 [17:28<02:50, 12.18s/it]
+Loss after 43174 examples: 0.000
+Loss after 43199 examples: 0.000
+Loss after 43224 examples: 0.000
+Loss after 43249 examples: 0.000
+Loss after 43274 examples: 0.000
+Loss after 43299 examples: 0.000
+Loss after 43324 examples: 0.000
+Loss after 43349 examples: 0.000
+Loss after 43374 examples: 0.000
+Loss after 43399 examples: 0.000
+Loss after 43424 examples: 0.000
+Loss after 43449 examples: 0.000
+Loss after 43474 examples: 0.000
+Loss after 43499 examples: 0.000
+Loss after 43524 examples: 0.000
+Loss after 43549 examples: 0.000
+Loss after 43574 examples: 0.000
+Loss after 43599 examples: 0.000
+Loss after 43624 examples: 0.000
+Loss after 43649 examples: 0.000
+
+ 87%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                       | 87/100 [17:40<02:38, 12.17s/it]
+Loss after 43699 examples: 0.000
+Loss after 43724 examples: 0.000
+Loss after 43749 examples: 0.000
+Loss after 43774 examples: 0.000
+Loss after 43799 examples: 0.000
+Loss after 43824 examples: 0.000
+Loss after 43849 examples: 0.000
+Loss after 43874 examples: 0.000
+Loss after 43899 examples: 0.000
+Loss after 43924 examples: 0.000
+Loss after 43949 examples: 0.000
+Loss after 43974 examples: 0.000
+Loss after 43999 examples: 0.000
+Loss after 44024 examples: 0.000
+Loss after 44049 examples: 0.000
+Loss after 44074 examples: 0.000
+Loss after 44099 examples: 0.000
+Loss after 44124 examples: 0.000
+Loss after 44149 examples: 0.000
+
+ 88%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                     | 88/100 [17:52<02:25, 12.14s/it]
+Loss after 44199 examples: 0.000
+Loss after 44224 examples: 0.000
+Loss after 44249 examples: 0.000
+Loss after 44274 examples: 0.000
+Loss after 44299 examples: 0.000
+Loss after 44324 examples: 0.000
+Loss after 44349 examples: 0.000
+Loss after 44374 examples: 0.000
+Loss after 44399 examples: 0.000
+Loss after 44424 examples: 0.000
+Loss after 44449 examples: 0.000
+Loss after 44474 examples: 0.000
+Loss after 44499 examples: 0.000
+Loss after 44524 examples: 0.000
+Loss after 44549 examples: 0.000
+Loss after 44574 examples: 0.000
+Loss after 44599 examples: 0.000
+Loss after 44624 examples: 0.000
+Loss after 44649 examples: 0.000
+
+ 89%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                   | 89/100 [18:04<02:13, 12.15s/it]
+Loss after 44699 examples: 0.000
+Loss after 44724 examples: 0.000
+Loss after 44749 examples: 0.000
+Loss after 44774 examples: 0.000
+Loss after 44799 examples: 0.000
+Loss after 44824 examples: 0.000
+Loss after 44849 examples: 0.000
+Loss after 44874 examples: 0.000
+Loss after 44899 examples: 0.000
+Loss after 44924 examples: 0.000
+Loss after 44949 examples: 0.000
+Loss after 44974 examples: 0.000
+Loss after 44999 examples: 0.000
+Loss after 45024 examples: 0.000
+Loss after 45049 examples: 0.000
+Loss after 45074 examples: 0.000
+Loss after 45099 examples: 0.000
+Loss after 45124 examples: 0.000
+Loss after 45149 examples: 0.000
+
+ 90%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                 | 90/100 [18:16<02:01, 12.19s/it]
+Loss after 45199 examples: 0.000
+Loss after 45224 examples: 0.000
+Loss after 45249 examples: 0.000
+Loss after 45274 examples: 0.000
+Loss after 45299 examples: 0.000
+Loss after 45324 examples: 0.000
+Loss after 45349 examples: 0.000
+Loss after 45374 examples: 0.000
+Loss after 45399 examples: 0.000
+Loss after 45424 examples: 0.000
+Loss after 45449 examples: 0.000
+Loss after 45474 examples: 0.000
+Loss after 45499 examples: 0.000
+Loss after 45524 examples: 0.000
+Loss after 45549 examples: 0.000
+Loss after 45574 examples: 0.000
+Loss after 45599 examples: 0.000
+Loss after 45624 examples: 0.000
+Loss after 45649 examples: 0.000
+
+ 91%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏               | 91/100 [18:29<01:49, 12.17s/it]
+Loss after 45699 examples: 0.000
+Loss after 45724 examples: 0.000
+Loss after 45749 examples: 0.000
+Loss after 45774 examples: 0.000
+Loss after 45799 examples: 0.000
+Loss after 45824 examples: 0.000
+Loss after 45849 examples: 0.000
+Loss after 45874 examples: 0.000
+Loss after 45899 examples: 0.000
+Loss after 45924 examples: 0.000
+Loss after 45949 examples: 0.000
+Loss after 45974 examples: 0.000
+Loss after 45999 examples: 0.000
+Loss after 46024 examples: 0.000
+Loss after 46049 examples: 0.000
+Loss after 46074 examples: 0.000
+Loss after 46099 examples: 0.000
+Loss after 46124 examples: 0.000
+Loss after 46149 examples: 0.000
+
+ 92%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉              | 92/100 [18:41<01:37, 12.13s/it]
+Loss after 46199 examples: 0.000
+Loss after 46224 examples: 0.000
+Loss after 46249 examples: 0.000
+Loss after 46274 examples: 0.000
+Loss after 46299 examples: 0.000
+Loss after 46324 examples: 0.000
+Loss after 46349 examples: 0.000
+Loss after 46374 examples: 0.000
+Loss after 46399 examples: 0.000
+Loss after 46424 examples: 0.000
+Loss after 46449 examples: 0.000
+Loss after 46474 examples: 0.000
+Loss after 46499 examples: 0.000
+Loss after 46524 examples: 0.000
+Loss after 46549 examples: 0.000
+Loss after 46574 examples: 0.000
+Loss after 46599 examples: 0.000
+Loss after 46624 examples: 0.000
+Loss after 46649 examples: 0.000
+
+ 93%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋            | 93/100 [18:53<01:24, 12.13s/it]
+Loss after 46699 examples: 0.000
+Loss after 46724 examples: 0.000
+Loss after 46749 examples: 0.000
+Loss after 46774 examples: 0.000
+Loss after 46799 examples: 0.000
+Loss after 46824 examples: 0.000
+Loss after 46849 examples: 0.000
+Loss after 46874 examples: 0.000
+Loss after 46899 examples: 0.000
+Loss after 46924 examples: 0.000
+Loss after 46949 examples: 0.000
+Loss after 46974 examples: 0.000
+Loss after 46999 examples: 0.000
+Loss after 47024 examples: 0.000
+Loss after 47049 examples: 0.000
+Loss after 47074 examples: 0.000
+Loss after 47099 examples: 0.000
+Loss after 47124 examples: 0.000
+Loss after 47149 examples: 0.000
+
+ 94%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍          | 94/100 [19:05<01:12, 12.16s/it]
+Loss after 47199 examples: 0.000
+Loss after 47224 examples: 0.000
+Loss after 47249 examples: 0.000
+Loss after 47274 examples: 0.000
+Loss after 47299 examples: 0.000
+Loss after 47324 examples: 0.000
+Loss after 47349 examples: 0.000
+Loss after 47374 examples: 0.000
+Loss after 47399 examples: 0.000
+Loss after 47424 examples: 0.000
+Loss after 47449 examples: 0.000
+Loss after 47474 examples: 0.000
+Loss after 47499 examples: 0.000
+Loss after 47524 examples: 0.000
+Loss after 47549 examples: 0.000
+Loss after 47574 examples: 0.000
+Loss after 47599 examples: 0.000
+Loss after 47624 examples: 0.000
+Loss after 47649 examples: 0.000
+
+ 95%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏        | 95/100 [19:17<01:00, 12.16s/it]
+Loss after 47699 examples: 0.000
+Loss after 47724 examples: 0.000
+Loss after 47749 examples: 0.000
+Loss after 47774 examples: 0.000
+Loss after 47799 examples: 0.000
+Loss after 47824 examples: 0.000
+Loss after 47849 examples: 0.000
+Loss after 47874 examples: 0.000
+Loss after 47899 examples: 0.000
+Loss after 47924 examples: 0.000
+Loss after 47949 examples: 0.000
+Loss after 47974 examples: 0.000
+Loss after 47999 examples: 0.000
+Loss after 48024 examples: 0.000
+Loss after 48049 examples: 0.000
+Loss after 48074 examples: 0.000
+Loss after 48099 examples: 0.000
+Loss after 48124 examples: 0.000
+Loss after 48149 examples: 0.000
+
+ 96%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉       | 96/100 [19:29<00:48, 12.14s/it]
+Loss after 48199 examples: 0.000
+Loss after 48224 examples: 0.000
+Loss after 48249 examples: 0.000
+Loss after 48274 examples: 0.000
+Loss after 48299 examples: 0.000
+Loss after 48324 examples: 0.000
+Loss after 48349 examples: 0.000
+Loss after 48374 examples: 0.000
+Loss after 48399 examples: 0.000
+Loss after 48424 examples: 0.000
+Loss after 48449 examples: 0.000
+Loss after 48474 examples: 0.000
+Loss after 48499 examples: 0.000
+Loss after 48524 examples: 0.000
+Loss after 48549 examples: 0.000
+Loss after 48574 examples: 0.000
+Loss after 48599 examples: 0.000
+Loss after 48624 examples: 0.000
+Loss after 48649 examples: 0.000
+
+ 97%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋     | 97/100 [19:41<00:36, 12.13s/it]
+Loss after 48699 examples: 0.000
+Loss after 48724 examples: 0.000
+Loss after 48749 examples: 0.000
+Loss after 48774 examples: 0.000
+Loss after 48799 examples: 0.000
+Loss after 48824 examples: 0.000
+Loss after 48849 examples: 0.000
+Loss after 48874 examples: 0.000
+Loss after 48899 examples: 0.000
+Loss after 48924 examples: 0.000
+Loss after 48949 examples: 0.000
+Loss after 48974 examples: 0.000
+Loss after 48999 examples: 0.000
+Loss after 49024 examples: 0.000
+Loss after 49049 examples: 0.000
+Loss after 49074 examples: 0.000
+Loss after 49099 examples: 0.000
+Loss after 49124 examples: 0.000
+Loss after 49149 examples: 0.000
+
+ 98%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍   | 98/100 [19:53<00:24, 12.14s/it]
+Loss after 49199 examples: 0.000
+Loss after 49224 examples: 0.000
+Loss after 49249 examples: 0.000
+Loss after 49274 examples: 0.000
+Loss after 49299 examples: 0.000
+Loss after 49324 examples: 0.000
+Loss after 49349 examples: 0.000
+Loss after 49374 examples: 0.000
+Loss after 49399 examples: 0.000
+Loss after 49424 examples: 0.000
+Loss after 49449 examples: 0.000
+Loss after 49474 examples: 0.000
+Loss after 49499 examples: 0.000
+Loss after 49524 examples: 0.000
+Loss after 49549 examples: 0.000
+Loss after 49574 examples: 0.000
+Loss after 49599 examples: 0.000
+Loss after 49624 examples: 0.000
+Loss after 49649 examples: 0.000
+
+ 99%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ | 99/100 [20:06<00:12, 12.13s/it]
+Loss after 49699 examples: 0.000
+Loss after 49724 examples: 0.000
+Loss after 49749 examples: 0.000
+Loss after 49774 examples: 0.000
+Loss after 49799 examples: 0.000
+Loss after 49824 examples: 0.000
+Loss after 49849 examples: 0.000
+Loss after 49874 examples: 0.000
+Loss after 49899 examples: 0.000
+Loss after 49924 examples: 0.000
+Loss after 49949 examples: 0.000
+Loss after 49974 examples: 0.000
+Loss after 49999 examples: 0.000
+Loss after 50024 examples: 0.000
+Loss after 50049 examples: 0.000
+Loss after 50074 examples: 0.000
+Loss after 50099 examples: 0.000
+Loss after 50124 examples: 0.000
+Loss after 50149 examples: 0.000
+Loss after 50174 examples: 0.000
+
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [20:18<00:00, 12.18s/it]
+Average MSE of the model on the test set: 3.590429734362111e-05
+Reconstruction loss for sequence 0: 2.5534372980473563e-05
+Reconstruction loss for sequence 1: 3.2819480111356825e-05
+Reconstruction loss for sequence 2: 2.7782538381870836e-05
+Reconstruction loss for sequence 3: 2.4277034754049964e-05
+Reconstruction loss for sequence 4: 2.8294742151047103e-05
+Reconstruction loss for sequence 5: 3.111949990852736e-05
+Reconstruction loss for sequence 6: 2.3533544663223438e-05
+Reconstruction loss for sequence 7: 2.7566780772758648e-05
+Reconstruction loss for sequence 8: 2.394881630607415e-05
+Reconstruction loss for sequence 9: 3.292623659945093e-05
+Reconstruction loss for sequence 10: 2.7516454792930745e-05
+Reconstruction loss for sequence 11: 2.7380203391658142e-05
+Reconstruction loss for sequence 12: 3.519683377817273e-05
+Reconstruction loss for sequence 13: 3.276716233813204e-05
+Reconstruction loss for sequence 14: 2.6984562282450497e-05
+Reconstruction loss for sequence 15: 2.1857369574718177e-05
+Reconstruction loss for sequence 16: 3.425080649321899e-05
+Reconstruction loss for sequence 17: 2.3603428417118266e-05
+Reconstruction loss for sequence 18: 3.0396224246942438e-05
+Reconstruction loss for sequence 19: 3.363752330187708e-05
+Reconstruction loss for sequence 20: 2.7731350201065652e-05
+Reconstruction loss for sequence 21: 4.616160367731936e-05
+Reconstruction loss for sequence 22: 5.913636414334178e-05
+Reconstruction loss for sequence 23: 4.0227951103588566e-05
+Reconstruction loss for sequence 24: 3.1052921258378774e-05
+Reconstruction loss for sequence 25: 2.9405468012555502e-05
+Reconstruction loss for sequence 26: 3.7278892705217004e-05
+Reconstruction loss for sequence 27: 3.231951268389821e-05
+Reconstruction loss for sequence 28: 2.512751962058246e-05
+Reconstruction loss for sequence 29: 3.287653089500964e-05
+Reconstruction loss for sequence 30: 2.1474406821653247e-05
+Reconstruction loss for sequence 31: 2.380580554017797e-05
+Reconstruction loss for sequence 32: 5.8931560488417745e-05
+Reconstruction loss for sequence 33: 3.565205042832531e-05
+Reconstruction loss for sequence 34: 4.131152672925964e-05
+Reconstruction loss for sequence 35: 2.5271774575230666e-05
+Reconstruction loss for sequence 36: 2.1398325770860538e-05
+Reconstruction loss for sequence 37: 3.151292185066268e-05
+Reconstruction loss for sequence 38: 3.631051004049368e-05
+Reconstruction loss for sequence 39: 2.7194731956114992e-05
+Reconstruction loss for sequence 40: 2.3025688278721645e-05
+Reconstruction loss for sequence 41: 2.2072454157751054e-05
+Reconstruction loss for sequence 42: 3.783872671192512e-05
+Reconstruction loss for sequence 43: 3.56613309122622e-05
+Reconstruction loss for sequence 44: 4.087737397640012e-05
+Reconstruction loss for sequence 45: 2.70063137577381e-05
+Reconstruction loss for sequence 46: 2.9765018553007394e-05
+Reconstruction loss for sequence 47: 2.4489627321599983e-05
+Reconstruction loss for sequence 48: 3.511784962029196e-05
+Reconstruction loss for sequence 49: 2.802441485982854e-05
+Reconstruction loss for sequence 50: 3.404222661629319e-05
+Reconstruction loss for sequence 51: 3.43524370691739e-05
+Reconstruction loss for sequence 52: 3.384730371180922e-05
+Reconstruction loss for sequence 53: 2.213744846812915e-05
+Reconstruction loss for sequence 54: 4.085246837348677e-05
+Reconstruction loss for sequence 55: 2.6148511096835136e-05
+Reconstruction loss for sequence 56: 7.54576176404953e-05
+Reconstruction loss for sequence 57: 3.838340489892289e-05
+Reconstruction loss for sequence 58: 2.3473456167266704e-05
+Reconstruction loss for sequence 59: 4.0352479118155316e-05
+Reconstruction loss for sequence 60: 2.077287899737712e-05
+Reconstruction loss for sequence 61: 3.4959295589942485e-05
+Reconstruction loss for sequence 62: 2.877766382880509e-05
+Reconstruction loss for sequence 63: 2.6299021556042135e-05
+Reconstruction loss for sequence 64: 2.979552482429426e-05
+Reconstruction loss for sequence 65: 3.078708323300816e-05
+Reconstruction loss for sequence 66: 3.0453471481450833e-05
+Reconstruction loss for sequence 67: 2.6229879949823953e-05
+Reconstruction loss for sequence 68: 3.492235191515647e-05
+Reconstruction loss for sequence 69: 3.423941234359518e-05
+Reconstruction loss for sequence 70: 3.0322053135023452e-05
+Reconstruction loss for sequence 71: 2.3970891561475582e-05
+Reconstruction loss for sequence 72: 2.6274270567228086e-05
+Reconstruction loss for sequence 73: 3.0233306461013854e-05
+Reconstruction loss for sequence 74: 6.424077582778409e-05
+Reconstruction loss for sequence 75: 2.9464114049915224e-05
+Reconstruction loss for sequence 76: 2.209351623605471e-05
+Reconstruction loss for sequence 77: 0.00046485522761940956
+Reconstruction loss for sequence 78: 3.249045767006464e-05
+Reconstruction loss for sequence 79: 3.153299621772021e-05
+Reconstruction loss for sequence 80: 3.1955019949236885e-05
+Reconstruction loss for sequence 81: 3.682280294015072e-05
+Reconstruction loss for sequence 82: 3.6396369978319854e-05
+Reconstruction loss for sequence 83: 2.4687295081093907e-05
+Reconstruction loss for sequence 84: 2.110491732310038e-05
+Reconstruction loss for sequence 85: 4.1687202610773966e-05
+Reconstruction loss for sequence 86: 6.503674376290292e-05
+Reconstruction loss for sequence 87: 3.285144339315593e-05
+Reconstruction loss for sequence 88: 2.606771704449784e-05
+Reconstruction loss for sequence 89: 6.409176421584561e-05
+Reconstruction loss for sequence 90: 3.0045624953345396e-05
+Reconstruction loss for sequence 91: 3.372372884768993e-05
+Reconstruction loss for sequence 92: 2.8642525649047457e-05
+Reconstruction loss for sequence 93: 2.4123410184984095e-05
+Reconstruction loss for sequence 94: 3.3323365641990677e-05
+Reconstruction loss for sequence 95: 2.9289501981111243e-05
+Reconstruction loss for sequence 96: 3.201522122253664e-05
+Reconstruction loss for sequence 97: 3.0767176212975755e-05
+Reconstruction loss for sequence 98: 3.7745750887552276e-05
+Reconstruction loss for sequence 99: 3.2132320484379306e-05
+Reconstruction loss for sequence 100: 4.0771479689283296e-05
+Reconstruction loss for sequence 101: 3.1894513085717335e-05
+Reconstruction loss for sequence 102: 3.79318262275774e-05
+Reconstruction loss for sequence 103: 3.736248618224636e-05
+Reconstruction loss for sequence 104: 2.9881917726015672e-05
+Reconstruction loss for sequence 105: 3.1909585231915116e-05
+Reconstruction loss for sequence 106: 2.024044624704402e-05
+Reconstruction loss for sequence 107: 3.0587234505219385e-05
+Reconstruction loss for sequence 108: 4.0115246520144865e-05
+Reconstruction loss for sequence 109: 2.422310171823483e-05
+Reconstruction loss for sequence 110: 2.79273372143507e-05
+Reconstruction loss for sequence 111: 2.481597402947955e-05
+Reconstruction loss for sequence 112: 3.242658931412734e-05
+Reconstruction loss for sequence 113: 3.292152541689575e-05
+Reconstruction loss for sequence 114: 3.234315954614431e-05
+Reconstruction loss for sequence 115: 2.5529623599140905e-05
+Reconstruction loss for sequence 116: 2.7562753530219197e-05
+Reconstruction loss for sequence 117: 3.177385951858014e-05
+Reconstruction loss for sequence 118: 3.220354119548574e-05
+Reconstruction loss for sequence 119: 2.8019518140354194e-05
+Reconstruction loss for sequence 120: 2.61313070950564e-05
+Reconstruction loss for sequence 121: 3.157415994792245e-05
+Reconstruction loss for sequence 122: 8.76713966135867e-05
+Reconstruction loss for sequence 123: 2.5250312319258228e-05
+Reconstruction loss for sequence 124: 3.0844144930597395e-05
+Reconstruction loss for sequence 125: 1.9687900930875912e-05
+C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\torch\onnx\symbolic_opset9.py:4661: UserWarning: Exporting a model to ONNX with a batch_size other than 1, with a variable length with LSTM can cause an error when running the ONNX model with a different batch size. Make sure to save the model with a batch size of 1, or define the initial states (h0/c0) as inputs of the model.
+  warnings.warn(
+Traceback (most recent call last):
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 40, in model_pipeline
+    test(model, test_loader)
+  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\test_tbm.py", line 39, in test
+    wandb.save("model.onnx")
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_run.py", line 400, in wrapper_fn
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_run.py", line 390, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_run.py", line 1975, in save
+    return self._save(
+           ^^^^^^^^^^^
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\site-packages\wandb\sdk\wandb_run.py", line 2039, in _save
+    target_path.symlink_to(source_path)
+  File "C:\Users\musta\miniconda3\envs\pytorch\Lib\pathlib.py", line 1386, in symlink_to
+    os.symlink(target, self, target_is_directory)
+OSError: [WinError 1314] El cliente no dispone de un privilegio requerido: 'C:\\Users\\musta\\desktop\\synthesis_project_UAB\\utils\\model.onnx' -> 'C:\\Users\\musta\\desktop\\synthesis_project_UAB\\utils\\wandb\\run-20240515_204734-ybxf0ace\\files\\model.onnx'
