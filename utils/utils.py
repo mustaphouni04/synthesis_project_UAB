@@ -197,7 +197,44 @@ def preprocessing_CLEAN(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
+def after_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
+    # Replace empty lists with 0
+    df['referer'] = df['referer'].apply(lambda x: 0 if x == [] else x)
+    df['user_agent'] = df['user_agent'].apply(lambda x: 0 if x == [] else x)
+    df['requested_url'] = df['requested_url'].apply(lambda x: 0 if x == [] else x)
+    
+    # Convert nested lists to a single vector of 30 dimensions
+    def convert_to_vector(embedding):
+        if embedding == 0:
+            return 0
+        else:
+            # each embedding is a list of lists where each sublist is a 30-dimensional vector
+            # Convert to numpy array for easier manipulation
+            embedding_array = np.array(embedding)
+            # Compute the mean across the first axis (across all words)
+            mean_vector = np.mean(embedding_array, axis=0)
+            return mean_vector.tolist()
+    
+    df['referer'] = df['referer'].apply(convert_to_vector)
+    df['user_agent'] = df['user_agent'].apply(convert_to_vector)
+    df['requested_url'] = df['requested_url'].apply(convert_to_vector)
+    
+    # Compute the mean of the 30-dimensional vector
+    def compute_mean_vector(vector):
+        if vector == 0:
+            return 0
+        else:
+            # Convert to numpy array for easier computation
+            vector_array = np.array(vector)
+            # Compute the mean of the vector
+            mean_value = np.mean(vector_array)
+            return mean_value
+    
+    df['referer'] = df['referer'].apply(compute_mean_vector)
+    df['user_agent'] = df['user_agent'].apply(compute_mean_vector)
+    df['requested_url'] = df['requested_url'].apply(compute_mean_vector)
 
+    return df
 
 
 

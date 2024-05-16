@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\musta\desktop\synthesis_project_UAB\utils\main_tbm.py", line 34, in model_pipeline
-    model, train_loader, test_loader, criterion, optimizer = make(config)
-                                                             ^^^^^^^^^^^^
-TypeError: make() missing 1 required positional argument: 'csv_path'

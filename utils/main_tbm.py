@@ -45,8 +45,8 @@ if __name__ == "__main__":
     wandb.login()
 
     config = dict(
-        epochs=100,
-        batch_size=32,
+        epochs=20,
+        batch_size=1,
         learning_rate=5e-3,
         csv_path='../../preprocessed.csv',
         architecture="LSTM Autoencoder",
