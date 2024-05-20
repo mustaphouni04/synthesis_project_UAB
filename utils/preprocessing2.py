@@ -4,7 +4,7 @@ Use this file to get the necessary data to train a model.
 # Importing all necessary preprocessing functions from utils
 import pandas as pd
 import utils2
-from utils2 import preprocessing_TS, preprocessing_SC, preprocessing_UA, preprocessing_R, preprocessing_RU, preprocessing_RM, preprocessing_RH, preprocessing_BS, preprocessing_CLEAN
+from utils2 import preprocessing_TS, preprocessing_SC, preprocessing_UA, preprocessing_R, preprocessing_RU, preprocessing_RM, preprocessing_RH, preprocessing_BS, preprocessing_CLEAN, after_preprocessing
 
 # Reload utils to update any changes made to the script
 import importlib
@@ -53,6 +53,10 @@ def final_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
     df_copy3 = preprocessing_UA(df_copy3)
     user_agent_column = df_copy3['user_agent']
     df['user_agent'] = user_agent_column
+    print("Done.")
+
+    print("Preprocessing referer, user_agent and requested_url...")
+    df = after_preprocessing(df)
     print("Done.")
     
     return df

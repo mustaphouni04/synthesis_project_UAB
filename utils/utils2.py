@@ -16,6 +16,7 @@ import multiprocessing
 import os
 from sklearn.preprocessing import MinMaxScaler
 import hashlib
+import ast
 
 # HELPER FUNCTIONS
 #_________________________________________________________________________________________________________
@@ -197,11 +198,53 @@ def preprocessing_CLEAN(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
+def after_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
+    # replacing [] observations by a 30 dim vector of zeroes
+    zero_vector = [0.0] * 30
+    df['referer'] = df['referer'].apply(lambda x: zero_vector if x == [] else x)
+    df['user_agent'] = df['user_agent'].apply(lambda x: zero_vector if x == [] else x)
+    df['requested_url'] = df['requested_url'].apply(lambda x: zero_vector if x == [] else x)
 
+    # do the mean of all words in the embedding iff observation is not 30 dim zero vector
+    def convert_to_vector(embedding):
+        # here embedding is treated as a NumPy array for consistent handling
+        embedding_array = np.asarray(embedding)
+        
+        if embedding_array.shape == (30,) and np.all(embedding_array == 0.0):
+            # return  zero vector itself if it matches the condition
+            return embedding_array.tolist()
+        elif embedding_array.shape!= (30,) or not np.all(embedding_array == 0.0):
+            # proceed with original logic if the embedding is not a zero vector
+            mean_vector = np.mean(embedding_array, axis=0)
+            return mean_vector.tolist()
+        else:
+            # handle other cases where the input does not match expected formats
+            return None
 
+    df['referer'] = df['referer'].apply(convert_to_vector)
+    df['user_agent'] = df['user_agent'].apply(convert_to_vector)
+    df['requested_url'] = df['requested_url'].apply(convert_to_vector)
 
+    # get every value in the vectors as a single feature for each referer, user_agent or requested_url
+    def split_vector_column(df, column_name):
+        # convert string representation of list to actual list
+        df[column_name] = df[column_name].apply(ast.literal_eval)
+        
+        # create new columns for each element in the vector
+        vector_cols = [f"{column_name}_{i}" for i in range(30)]
+        vector_df = pd.DataFrame(df[column_name].tolist(), columns=vector_cols)
+        
+        # drop the original vector column and concatenate the new columns
+        df = df.drop(columns=[column_name])
+        df = pd.concat([df, vector_df], axis=1)
+    
+        return df
+        
+    df = split_vector_column(df, 'requested_url')
+    df = split_vector_column(df, 'referer')
+    df = split_vector_column(df, 'user_agent')
 
-
+    return df
 
 
 
