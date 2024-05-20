@@ -45,7 +45,7 @@ if __name__ == "__main__":
     wandb.login()
 
     config = dict(
-        epochs=10,
+        epochs=30,
         batch_size=1,
         learning_rate=5e-3,
         csv_path='../../preplogs_model2.csv',
