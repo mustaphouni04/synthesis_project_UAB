@@ -7,7 +7,7 @@ import re
 import sqlite3
 import matplotlib.pyplot as plt
 from string import punctuation
-from keras.preprocessing import text
+#from keras.preprocessing import text
 from urllib.parse import unquote
 from nltk.tokenize import word_tokenize
 from nltk.corpus import PlaintextCorpusReader
@@ -227,9 +227,6 @@ def after_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
 
     # get every value in the vectors as a single feature for each referer, user_agent or requested_url
     def split_vector_column(df, column_name):
-        # convert string representation of list to actual list
-        df[column_name] = df[column_name].apply(ast.literal_eval)
-        
         # create new columns for each element in the vector
         vector_cols = [f"{column_name}_{i}" for i in range(30)]
         vector_df = pd.DataFrame(df[column_name].tolist(), columns=vector_cols)

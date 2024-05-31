@@ -60,5 +60,3 @@ def final_preprocessing(df: pd.DataFrame) -> pd.DataFrame:
     print("Done.")
     
     return df
-    
-    
