@@ -40,7 +40,7 @@ Additionally, if you want to train the model launch in utils folder:
 
 Make sure to input in the command prompt ```wandb login --relogin``` beforehand and the preprocessed csv path in the python file.
 
-If you have any problem obtaining the data or any other issue contact us or directly input an issue in this repo, we will provide you the CSV files and data preprocessed.
+If you have any problem obtaining the data or any other issue contact us at mustaphounii04@gmail.com or directly input an issue in this repo, we will provide you the CSV files and data preprocessed.
 
 
 ## Authors:
