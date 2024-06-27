@@ -29,7 +29,7 @@ Second, using the provided environment.yml file create a conda environment with 
 
 
 Use *get_data_in_csv.py* to format the logs in CSV format, call the function.
-After calling it, have a resulting combined_logs.csv file, load it as a DataFrame and pass it to *utils/preprocessing2.py*.
+After calling it, have a resulting combined_logs.csv file, load it as a DataFrame and pass it to *utils/preprocessing2.py* final_preprocessing function.
 Turn the resulting preprocessed DataFrame back to a csv file and name this csv *preplogs_model2.csv*.
 
 That's it! Now you can experiment in *utils/testing_second_model.ipynb*.
